@@ -68,3 +68,9 @@ These came from Tibet, going into the Gobi Desert, then into China and Japan.
 
 
 
+### Note: The 5th Race
+
+The Sassani and various scientists point to a 5th race as the Red Race of the Native Americans. However, these cane from the Asians and Austrics and so we do not regard them as the first races.
+
+
+

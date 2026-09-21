@@ -1,4 +1,5 @@
 ---
+heading: Chapter 1
 title: "The Mystery of Walk-ins"
 # linkTitle: "Others"
 description: ""
@@ -11,13 +12,17 @@ icon: "Ruth Montgomery"
 
 
 
-There are Walk-ins on this planet. Tens of thousands of them. Enlightened beings who, after successfully completing numerous incarnations, have attained sufficient awareness of the meaning of life that they can forego the time-consuming process of birth and childhood, returning directly to adult bodies.
+## Walk-In Versus Possession
 
-A Walk-in is a high-minded entity who is permitted to take over the body of another human being who wishes to depart. Since a Walk-in must never enter a body without the permission of its own this is not to be confused with those well-publicized cases (such as were described in *The Three Faces of Eve*, *The Exorcist*, et al) in which multiple rogue or evil spirits are vying for possession of an inhabited body.
+There are Tens of thousands of Walk-ins on this planet. Enlightened beings who, after successfully completing numerous incarnations, have attained sufficient awareness of the meaning of life that they can forego the time-consuming process of birth and childhood, returning directly to adult bodies.
+
+**A Walk-in is a high-minded entity who is permitted to take over the body of another human being who wishes to depart.**
+
+Since a Walk-in must never enter a body without the permission of its own, this is not to be confused with those well-publicized cases (such as were described in *The Three Faces of Eve*, *The Exorcist*, et al) where  evil spirits are vying for possession of an inhabited body.
 
 The motivation for a Walk-in is humanitarian. He returns to physical being in order to help others help themselves, planting seed-concepts that will grow and flourish for the benefit of mankind.
 
-Some of the world's greatest spiritual and political leaders, scientists, and philosophers in ages past are said to have been Walk-ins, but during these final decades of the twentieth century the pace has been steadily accelerating, and many more of them are entering mature physical bodies to prepare us for the shift of the earth on its axis at the end of the century, and the new age that is dawning.
+Some of the world's greatest spiritual and political leaders, scientists, and philosophers in ages past are said to have been Walk-ins. But during these final decades of the twentieth century the pace has been steadily accelerating, and many more of them are entering mature physical bodies to prepare us for the shift of the earth on its axis at the end of the century, and the new age that is dawning.
 
 Not all Walk-ins are towering leaders. Many are working quietly among us today, going about their unassuming task of helping us to understand ourselves, to seek inner guidance, and to develop a philosophy that will sustain us through the trying times ahead.
 
@@ -25,25 +30,42 @@ You may know a Walk-in in your office. Or in your community. They seldom reveal 
 
 In fact, you yourself may be a Walk-in! Since the memory of their former existence usually is wiped clean, Walk-ins are sometimes unaware of their altered status for several years after the substitution has been effected.
 
-Why have you never heard of Walk-ins before? That is exactly what I asked myself when, while recently reading a stack of fan mail, I found my attention riveted by one paragraph in a beautifully written letter. My unknown correspondent, after mentioning that she was disappointed having found no new book by me for the past two years, wrote:
+Why have you never heard of Walk-ins before? A reader wrote:
 
-"Are you looking for ideas for future books? I would like to see what your unseen friends [meaning my Guides] have to say about the role of Walk-ins on the planet. As they will tell you, a Walk-in is a highly evolved entity who, always with permission, enters the body of a human who wishes to check out before completing the task he has begun. Sometimes the human has lost heart, or had taken on a task more difficult than he was prepared to handle. Sometimes it was the purpose of the departing human to begin the task and prepare the body for the new entity. The new entity then completes the task, or takes the body beyond the point where the first occupant left off, and then goes on to do what he must do on his own projects, which are really those of a gardener who plants seeds on the planet, helps those seeds to germinate, and then lets them grow in their own direction. If you ask, your unseen friends will tell you the names of some of the political, military, spiritual, and philosophical leaders who were Walk-ins, who inspired or led people, and who are remembered for what they started. Perhaps it is time to tell the story of these remarkable beings, who are human while they are among us, and who help us along the way in our own evolution."
+<!-- That is exactly what I asked myself when, while recently reading a stack of fan mail, I found my attention riveted by one paragraph in a beautifully written letter. My unknown correspondent, after mentioning that she was disappointed having found no new book by me for the past two years, wrote: -->
 
 
+{{< q a="Reader" >}}
+Are you looking for ideas for future books? I would like to see what your unseen friends [meaning my Guides] have to say about the role of Walk-ins on the planet. As they will tell you, a Walk-in is a highly evolved entity who, always with permission, enters the body of a human who wishes to check out before completing the task he has begun. Sometimes the human has lost heart, or had taken on a task more difficult than he was prepared to handle. Sometimes it was the purpose of the departing human to begin the task and prepare the body for the new entity. The new entity then completes the task, or takes the body beyond the point where the first occupant left off, and then goes on to do what he must do on his own projects, which are really those of a gardener who plants seeds on the planet, helps those seeds to germinate, and then lets them grow in their own direction. If you ask, your unseen friends will tell you the names of some of the political, military, spiritual, and philosophical leaders who were Walk-ins, who inspired or led people, and who are remembered for what they started. Perhaps it is time to tell the story of these remarkable beings, who are human while they are among us, and who help us along the way in our own evolution.
+{{< /q >}}
 
-In my long and laborious journey from a skeptical syndicated columnist on politics and world affairs, to a writer on subjects beyond the range of our five senses, I had finally become convinced of reincarnation. I had also come to accept that spirits, under certain circumstances, can briefly materialize before loved ones, and then eerily dissolve. I myself have never seen a spirit or heard otherworldly voices, but there no longer seems any reason to doubt the veracity of those highly credible persons who insist they have.
 
-But Walk-ins? Human beings of flesh and blood who walk among us, confidently occupying a body, that previously belonged to another? It seemed rather much to swallow. Yet the thought continued to tantalize my waking hours, and even to color my dreams. The correspondent, obviously well-educated and intelligent, had indeed planted a seed; and after several days of restless wondering, I finally decided to seek counsel from my Guides, those unseen spirit friends who have been dictating through my typewriter from time to time since 1960.
+<!-- In my long and laborious journey from a skeptical syndicated columnist on politics and world affairs, to a writer on subjects beyond the range of our five senses, I had finally  -->
 
-Readers from my previous books in the psychic field are familiar with Lily, the mysterious spirit who directs my automatic writing, and with Arthur Ford, the famous American medium who joined Lily in my charmed circle of spiritual advisors after his death in 1971. They know that each morning after meditation, if I lightly rest my fingertips on the typewriter keys while still in the alpha state, the Guides write their messages and profound thoughts through me. Afterward, upon reading what they have written, I am invariably impressed by their far-ranging knowledge and by the accuracy of their verifiable statements, but I must confess that of late I had grievously neglected them.
+I become convinced of:
+- reincarnation
+- spirits, under certain circumstances, briefly materializing before loved ones and then eerily dissolve
 
-For one reason, my fingers were blistered from an unknown allergy that rendered them too sore for typing. For another, the Guides had been persistently urging that I write a book to help prepare readers for the coming shift of the earth on its axis, which they say will occur near the close of this century, after a devastating war. The thought, to me, is a chilling one, and since the Guides had touched on the subject in the closing chapter of *The World Beyond*, I felt deep reluctance to pursue it. (Could my unwillingness to cooperate have precipitated the allergy?) At any rate, the more the Guides persisted, the less tractable I became, until I eventually ceased the morning sessions altogether.
+<!-- I myself have never seen a spirit or heard otherworldly voices, but there no longer seems any reason to doubt the veracity of those highly credible persons who insist they have. -->
+
+But Walk-ins? Human beings of flesh and blood who walk among us, confidently occupying a body, that previously belonged to another? It seemed rather much to swallow. Yet the thought continued to tantalize my waking hours, and even to color my dreams.
+
+The correspondent, obviously well-educated and intelligent, had indeed planted a seed; and after several days of restless wondering, I finally decided to seek counsel from my Guides, those unseen spirit friends who have been dictating through my typewriter from time to time since 1960.
+
+Readers from my previous books in the psychic field are familiar with Lily, the mysterious spirit who directs my automatic writing, and with Arthur Ford, the famous American medium who joined Lily in my charmed circle of spiritual advisors after his death in 1971.
+
+They know that each morning after meditation, if I lightly rest my fingertips on the typewriter keys while still in the alpha state, the Guides write their messages and profound thoughts through me. Afterward, upon reading what they have written, I am invariably impressed by their far-ranging knowledge and by the accuracy of their verifiable statements, but I must confess that of late I had grievously neglected them.
+
+For one reason, my fingers were blistered from an unknown allergy that rendered them too sore for typing. For another, the Guides had been persistently urging that I write a book to help prepare readers for the coming shift of the earth on its axis, which they say will occur near the close of this century, after a devastating war. 
+
+The thought, to me, is a chilling one, and since the Guides had touched on the subject in the closing chapter of *The World Beyond*, I felt deep reluctance to pursue it. (Could my unwillingness to cooperate have precipitated the allergy?) At any rate, the more the Guides persisted, the less tractable I became, until I eventually ceased the morning sessions altogether.
 
 Then came the challenging letter from my unknown reader, whom I shall call Laura, and after mulling it over for a few days, I returned to the typewriter to consult the Guides. Are there, I asked, such things as Walk-ins on this planet, and was there any truth to the letter that I had received?
 
 After my usual period of meditation, with eyes still closed, I touched the keys lightly, and the Guides began to write: "The so-called Walk-ins are superior souls who have gone on after many earthly lives, and some of them need not return but are doing so in order to help others. They wish to avoid returning as babies, and enduring the childhood state in which valuable time would be wasted, so they do indeed take over, with the permission, the bodies of discouraged or willing souls who are ready to depart. 
 
 Some are able to go directly to the purpose of their earthly return, and have become philosophers and research scientists, while some are as yet unaware that they were not always in the bodies they now inhabit. They make up a small but brilliant portion of today's society, and they will come in increasing numbers as the earth approaches the shift of the axis during the last part of this century.
+
 
 "In the past centuries Walk-ins have flowered and waned and come again, and they are a prime example of the immortality of the soul. Thus, those who attain to a sufficiently advanced level need not repeat the learning processes of birth, babyhood, and schooling in order to serve others. By electing to enter directly into an adult body no longer wanted by the occupant, they bring with them a deepened awareness, a fresher recollection of akashic records and goals to be reached, and are able to communicate personally with other earthlings, unlike spirit entities who are ever present but seldom seen or heard by those in physical body"
 
@@ -117,5 +139,3 @@ If the Guides are correct, then surely the method they describe is a more ennobl
 The Guides phrased it like this: "Walk-ins are helping others find their way to self-understanding, quietly assisting them to look within, to find that core within self from which all knowledge flows. They are at work in a variety of ways, as physicists, truckers, teachers, scholars, writers and housewives, for until they are freed of tasks undertaken by the original owners of the bodies, they will not advance their own work, which is that of trying to bring peace and understanding between peoples.
 
 Those who would contemplate suicide might better give thought to permitting these superior souls to use their bodies, and let them take over during sleep or sickness, withdrawing into spirit to rest for a time and reassess their own goals.
-
-
