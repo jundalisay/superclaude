@@ -1,20 +1,16 @@
 ---
 heading: Session 91
-title: "Archetypes"
+title: "Planetary Mind"
 description: ""
 c: "indigo"
 weight: 258
 image: /covers/ra.jpg
-date: 1981-01-24
+date: 1981-06-26
 tags: ['archetype']
 ---
 
 
 June 26, 1982
-
-
-
-## Session 91
 
 {{< r a="Don Elkins" >}}I have listed the different minds. First, we have the cosmic mind which is, I would think, the same for all sub-Logo[i] like our sun.
 

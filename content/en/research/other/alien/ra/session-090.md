@@ -1,6 +1,6 @@
 ---
 heading: Session 90
-title: "Archetypes"
+title: "Logos and Archetypes"
 description: ""
 c: "indigo"
 weight: 255
@@ -97,9 +97,9 @@ Thusly to be observed would be behavior indicating self-consciousness and purpos
 
 
 {{< r a="Don Elkins" >}}
-My line of questioning I am trying to link to the creation of various Logos and their original use of a system of archetypes in their creation and I apologize for possibly a lack of efficiency in doing this, but I find this somewhat difficult. 
+I am trying to link to the creation of various Logos and their original use of a system of archetypes in their creation.
 
-For this particular Logos in the beginning, prior to its creation of first density, did the archetypical system which it had chosen for its creations include the forms that would evolve, and in particular third density human form, or was this related to the archetypical concept at all?
+For our Logos in the beginning, prior to its creation of 1st density, did the archetypical system which it had chosen for its creations include the 3rd density human form, or was this related to the archetypical concept at all?
 {{< /r >}}
 
 
@@ -146,46 +146,63 @@ The other root of mind to be recalled is that racial or planetary mind which als
 
 {{< l a="Ra" >}}Each Logos desires to create a more eloquent expression of experience of the Creator by the Creator. The archetypical mind is intended to heighten this ability to express the Creator in patterns more like the fanned peacock’s tail, each facet of the Creator vivid, upright, and shining with articulated beauty.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Is Ra familiar with the archetypical mind of some other Logos that is not the same as the one we experience?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Are you familiar with the archetypical mind of some other Logos that is not the same as the one we experience?{{< /r >}}
 
-{{< l a="Ra" >}}There are entities of Ra which have served as far Wanderers to those of another Logos. The experience has been one which staggers the intellectual and intuitive capacities, for each Logos sets up an experiment enough at variance from all others that the subtleties of the archetypical mind of another Logos are most murky to the resonating mind, body, and spirit complexes of this Logos.{{< /l >}}
+{{< l a="Ra" >}}
+There are entities of Ra which have served as far Wanderers to those of another Logos. 
 
-{{< r a="Don Elkins" >}}There seems to have been created by this Logos, to me anyway, a large percentage of entities whose distortion was toward warfare, in that we had the Maldek and the Mars experience and now Earth. It seems that Venus was the exception to what we could almost call the rule of warfare. Is this correct and was this envisioned and planned into the construction of the archetypical mind, possibly not with respect particularly to warfare as we have experienced it but to the extreme action to polarization in consciousness?{{< /r >}}
+The experience has been one which staggers the intellectual and intuitive capacities, for each Logos sets up an experiment enough at variance from all others that the subtleties of the archetypical mind of another Logos are most murky to the resonating mind, body, and spirit complexes of this Logos.{{< /l >}}
 
-{{< l a="Ra" >}}The Logos designed Its experiment to attempt to achieve the greatest possible opportunities for polarization in third density. It is incorrect that warfare of the types specific to your experiences was planned by the Logos.
 
-This form of expression of hostility is an interesting result which is apparently concomitant with the tool-making ability. The choice of the Logos to use the life-form with the grasping thumb is the decision to which this type of warfare may be traced.{{< /l >}}
+## War is caused by Thumbs
 
-{{< r a="Don Elkins" >}}Then did our Logos hope to see generated a positive and negative harvest from each density up to the sixth, starting with the third, as being the most efficient form of generating experience known to It at the time of Its construction of this system of evolution?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Our Logos seems to have created many entities whose distortion was toward warfare, in that we had the Maldek and the Mars experience and now Earth.
+
+It seems that Venus was the exception to that rule of warfare. Is this correct and was this envisioned and planned into the construction of the archetypical mind, possibly not with respect particularly to warfare as we have experienced it but to the extreme action to polarization in consciousness?{{< /r >}}
+
+{{< l a="Ra" >}}The Logos designed Its experiment to achieve the greatest polarization in third density. It is incorrect that warfare of the types specific to your experiences was planned by the Logos.
+
+Hhostility is an interesting result which is apparently concomitant with the tool-making ability. The choice of the Logos to use the life-form with the grasping thumb is the decision to which this type of warfare may be traced.{{< /l >}}
+
+{{< r a="Don Elkins" >}}
+Then did our Logos hope to see generated a positive and negative harvest from each density up to the sixth, starting with the third, as being the most efficient form of generating experience known to It at the time of Its construction of this system of evolution?{{< /r >}}
 
 {{< l a="Ra" >}}Yes.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Then built into the basis for the archetypes is possibly the mechanism for creating the polarization in consciousness for service to others and service to self. Is this, in fact, true?{{< /r >}}
+{{< r a="Don Elkins" >}}Then built into the basis for the archetypes is possibly the mechanism for creating the polarization in consciousness for service to others and service to self?
+{{< /r >}}
 
-{{< l a="Ra" >}}Yes. You will notice the many inborn biases which hint to the possibility of one path’s being more efficient than the other. This was the design of the Logos.{{< /l >}}
+{{< l a="Ra" >}}Yes. There are many inborn biases which hint to the possibility of one path’s being more efficient than the other. This was the design of the Logos.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Then what you are saying is that once the path is recognized, either the positive or the negative polarized entity can find hints along his path as to the efficiency of that path. Is this correct?{{< /r >}}
+{{< r a="Don Elkins" >}}Then once the path is recognized, either the positive or the negative polarized entity can find hints along his path as to the efficiency of that path?{{< /r >}}
 
-{{< l a="Ra" >}}That which you say is correct upon its own merits, but is not a repetition of our statement. Our suggestion was that within the experiential nexus of each entity within its 2nd density environment and within the roots of mind there were placed biases indicating to the watchful eye the more efficient of the two paths. Let us say, for want of a more precise adjective, that this Logos has a bias towards kindness.{{< /l >}}
+{{< l a="Ra" >}}That which you say is correct upon its own merits, but is not a repetition of our statement.
 
-{{< r a="Don Elkins" >}}Then you say that the more efficient of the two paths was suggested in a subliminal way to 2nd density to be the service-to-others path. Am I correct?{{< /r >}}
+Our suggestion was that within the experiential nexus of each entity within its 2nd density environment and within the roots of mind there were placed biases indicating to the watchful eye the more efficient of the two paths. Let us say, for want of a more precise adjective, that this Logos has a bias towards kindness.{{< /l >}}
+
+{{< r a="Don Elkins" >}}Then the more efficient of the two paths was suggested in a subliminal way to 2nd density to be the service-to-others path?{{< /r >}}
 
 {{< l a="Ra" >}}We did not state which was the more efficient path. However, you are correct in your assumption, as you are aware from having examined each path in some detail in previous querying.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Would this be the reason for the greater positive harvests? I suspect that it isn’t, but would there be Logoi that have greater negative percentage harvests because of this type of biasing?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Would this be the reason for the greater positive harvests? I suspect that it isn’t, but would there be Logoi that have greater negative percentage harvests because of this type of biasing?{{< /r >}}
 
 {{< l a="Ra" >}}
-No. There have been Logoi with greater percentages of negative harvests. However, the biasing mechanisms cannot change the requirements for achieving harvestability either in the positive or in the negative sense. There are Logoi which have offered a neutral background against which to polarize. This Logos chose not to do so but instead to allow more of the love and light of the Infinite Creator to be both inwardly and outwardly visible and available to the sensations and conceptualizations of mind/body/spirit complexes undergoing Its care in experimenting.{{< /l >}}
+No. There have been Logoi with greater percentages of negative harvests. 
+
+However, the biasing mechanisms cannot change the requirements for achieving harvestability either in the positive or in the negative sense. There are Logoi which have offered a neutral background against which to polarize. 
+
+This Logos chose not to do so but instead to allow more of the love and light of the Infinite Creator to be both inwardly and outwardly visible and available to the sensations and conceptualizations of mind/body/spirit complexes undergoing Its care in experimenting.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Were there any other circumstances, biases, consequences, or plans set up by the Logos other than those we have discussed for the evolution of Its parts through the densities?{{< /r >}}
 
-{{< l a="Ra" >}}Yes.{{< /l >}}
+{{< l a="Ra" >}}Yes. This is the permeability of the densities so that there may be communication from density to density and from plane to plane or sub-density to sub-density.{{< /l >}}
 
-{{< r a="Don Elkins" >}}What were these?{{< /r >}}
+{{< r a="Don Elkins" >}}Then as I see the plan for the evolution by this Logos it was planned to create as vivid an experience as possible but also one which was somewhat informed with respect to the Infinite Creator and able to accelerate progress as a function of will because of the permeabilities of densities.
 
-{{< l a="Ra" >}}One more; that is, the permeability of the densities so that there may be communication from density to density and from plane to plane or sub-density to sub-density.{{< /l >}}
-
-{{< r a="Don Elkins" >}}Then as I see the plan for the evolution by this Logos it was planned to create as vivid an experience as possible but also one which was somewhat informed with respect to the Infinite Creator and able to accelerate progress as a function of will because of the permeabilities of densities. Have I covered accurately the general plan of this Logos with respect to Its evolution?{{< /r >}}
+Have I covered accurately the general plan of this Logos with respect to Its evolution?{{< /r >}}
 
 {{< l a="Ra" >}}Excepting the actions of the unmanifested self and the actions of self with other-self, you have been reasonably thorough.{{< /l >}}
 
@@ -195,7 +212,10 @@ No. There have been Logoi with greater percentages of negative harvests. However
 
 {{< r a="Don Elkins" >}}What I am really asking is what percentage part, roughly, are these responsible for?{{< /r >}}
 
-{{< l a="Ra" >}}We ask once again that you consider that the archetypical mind is a part of the deep mind. There are several portions to this mind. The mind may serve as a resource. To call the archetypical mind the foundation of experience is to oversimplify the activities of the mind/body/spirit complex. To work with your query as to percentages is, therefore, enough misleading in any form of direct answer that we would ask that you re-question.{{< /l >}}
+{{< l a="Ra" >}}
+Cconsider that the archetypical mind is a part of the deep mind. There are several portions to this mind. The mind may serve as a resource. To call the archetypical mind the foundation of experience is to oversimplify the activities of the mind/body/spirit complex. 
+
+To work with your query as to percentages is, therefore, enough misleading in any form of direct answer that we would ask that you re-question.{{< /l >}}
 
 {{< r a="Don Elkins" >}}That’s OK. I don’t think that was that good a question anyway.
 
@@ -210,7 +230,9 @@ We had no teaching plan. Our intention was to manifest that which was requested 
 
 We are aware that this particular line of querying; that is, the nature and architecture of the archetypical mind, has caused the questioner to attempt, to its own mind unsuccessfully, to determine the relative importance of these concepts. We cannot learn/teach for any, nor would we take this opportunity from the questioner.
 
-The adept has already worked much, not only within the red, orange, yellow, and green energy centers, but already in the opening of blue and indigo. Up through this point the archetypes function as the great base or plinth of a builded structure or statue keeping the mind complex viable, level, and available as a resource whenever it may be evoked. There is a point at which the adept takes up its work. This is the point at which a clear and conscious consideration of the archetypical mind is useful.{{< /l >}}
+The adept has already worked much, not only within the red, orange, yellow, and green energy centers, but already in the opening of blue and indigo. Up through this point the archetypes function as the great base or plinth of a builded structure or statue keeping the mind complex viable, level, and available as a resource whenever it may be evoked. 
+
+There is a point at which the adept takes up its work. This is the point at which a clear and conscious consideration of the archetypical mind is useful.{{< /l >}}
 
 
 
