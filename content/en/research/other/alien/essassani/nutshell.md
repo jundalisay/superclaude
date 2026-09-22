@@ -30,11 +30,14 @@ The internet and Youtube have allowed their communications to be known by more p
 
 ## Their Agenda
 
-Their goal is to help humans advance mentally and spiritually by explaining how the universe works in order to create the new race called the **Anu Het** which will aid our quadrant of the galaxy as it merges with the Andromeda galaxy. 
+Their goal is to help humans advance mentally and spiritually by explaining how the universe works in order to create the new race called the **Anu Het** which will aid our quadrant of the galaxy as it merges with the higher vibration Andromeda galaxy. 
 
 To achieve this long term goal, they have a short-medium term goal of positively colonizing Earth with hybrids. The Sassani Bashar does this by channeling a hybrid called Willa. 
 
-Unlike European colonization which was destructive and negative, Hybrid colonization is positive similar to how the Indian Gupta empire colonized and bootstrapped Sri Lanka, Indonesia, Thailand, Cambodia, the Philippines as proven by them being Hindu such as Bali. 
+Unlike European colonization which was destructive and negative, Hybrid colonization is positive similar to how the Indian Gupta empire colonized and bootstrapped Sri Lanka, Indonesia, Thailand, Cambodia, the Philippines as proven by them being Hindu such as Bali, spreading Dharma in the process (The Sassani call dharma as 'excitement' -- their formula is their way to make people follow their Dharma). 
+
+{{< n n="We classify the Sassani philosophy under path of action (karma yoga) instead of the traditional path of love (bhakti yoga). In the Sassani system, love is realized after action. But in the Hindu system, action is done because of love or devotion." >}}
+
 
 
 ## The Formula
@@ -94,4 +97,29 @@ Bashar does the general work of introducing 4th and 5th density concepts. The ot
 
 
 <!-- For example, Elan is  -->
+
+
+## Common Effects of Sassani Teachings
+
+The most commmon effect is for people to liberate themselves, which they do by quitting their jobs. This puts them into financial trouble and so many questions are about **Abundance**. 
+
+There are some low vibration high ego people who get attracted by the liberation idea and so they follow Sassani teachings only to get themselves into trouble and even ask about suicide. 
+
+We only recommend Sassani Teachings to high vibration people like practicing Buddhists, Hindus, Taoists as a way to step up faster, since we classify the synchronicity that comes from following the formula as an **occult power** that separates 4th density beings from 3rd density i.e. 3rd density only has reason, but 4th density has subtler reason that leads to power and therefore liberation. 
+
+4th density people are rare and so another common effect is isolation, loneliness, and being seen as crazy (which the Sassani regard as a good thing as crazy-good). 
+
+
+## Sassani Technology
+
+Unlike channelers of spirits and other aliens which teach no practical technologies, the Sassani actually teach their advanced technologies like:
+- spacetime antenna free energy device
+- earthquake disruptor
+- crystal fusion reactor
+- orbitting AI
+- time crystal ships
+- indestructible metals
+- health detox formulations
+
+This is why we use their principles to check those of our Material Superphysics to make sure we are on the right track. 
 
