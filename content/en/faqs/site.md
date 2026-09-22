@@ -14,21 +14,19 @@ What is the ultimate goal of this website?
 {{< /r >}}
 
 {{< l a="Superphysics" v="<svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'> <defs> <mask id='cutout'> <rect width='100' height='100' fill='white' /> <rect x='0' y='47.5' width='100' height='5' fill='black' /> <circle cx='50' cy='50' r='23' fill='black' /> </mask> </defs> <polygon points='50,0 100,50 0,50' fill='#008BE3' mask='url(#cutout)' /> <polygon points='0,50 100,50 50,100' fill='#00C8A0' mask='url(#cutout)' /> <circle cx='50' cy='50' r='18' fill='#FAA732' /> </svg>" >}}
-Our goal is to share our knowledge of how Nature or Reality works. We achieve this thinking and feeling out of the box of the negative ego or the feeling of the self. This usually happens when people love beyond themselves which usually turns into a love for the Supreme Entity. 
+Our goal is to share our knowledge of how Nature or Reality works. We achieve this thinking and feeling out of the box of the negative ego or the feeling of the self. This usually happens when people love beyond themselves which usually turns into a love for the Supreme Entity (called All-That-Is in New Age groups and Brahma in Hindu or Old Age groups). 
 
-All our sources whether Hume, Descartes, Smith, Newton, Leibniz, Spinoza, Aristotle, Hinduism, Buddhism, Taoism, or the Sassani all have an intense love or curiosity about Nature and the Supreme Entity.  
+All our sources whether Hume, Descartes, Smith, Newton, Leibniz, Spinoza, Aristotle, Hinduism, Buddhism, Taoism, Ra, Seth, or the Sassani all have an intense love or curiosity about Nature and the Supreme Entity.  
 
 Most people just care for themselves and so they are unable to discover the hidden principles in Nature.
 
 The core team is on the spiritual path which aims for *mukti* (liberation) or *moksha* (salvation). We have already entered into the mukti level more or less, on and off. This why we were able to come up with Superphysics. 
 
-But we're not fully in mukti yet. This is why there are still a lot of "**breaking changes**" in the Superphysics Principles.
+But we're not fully in mukti yet. This is why there are still a lot of "**breaking changes**" in the Superphysics Principles. We feel that if we are able to complete and implement Superphysics in reality, then we will really be within mukti and can get the green light to go for **moksha**.
 
-We feel that if we are able to complete and implement Superphysics in reality, then we will really be within mukti and can get the green light to go for **moksha**. 
+**So we are doing this for ourselves** just like how Buddhism is just there and does not really impose itself on foreign cultures. It has no quota or metrics other than mukti or moksha. Even occult powers are regarded as a negative thing or backward step. 
 
-So we are doing this for ourselves just like how Buddhism is just there and does not really impose itself on foreign cultures. It has no quota or metrics other than mukti or moksha. Even occult powers are regarded as a negative thing or backward step. 
-
-Similarly, advanced aliens like the Sassani are just there and they don't impose themselves since their goal is to upgrade themselves into 5th density. You could say that mukti is 5th density while moksha is 7th density. 
+Similarly, advanced aliens like the Sassani and Pleiadeans are just there hanging around. They don't impose themselves since their goal is to upgrade themselves into 5th density. You could say that mukti is 5th density while moksha is 7th density and above. 
 {{< /l >}}
 
 
@@ -38,7 +36,9 @@ Why not take your findings to academia?
 
 
 {{< l a="Superphysics" v="<svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'> <defs> <mask id='cutout'> <rect width='100' height='100' fill='white' /> <rect x='0' y='47.5' width='100' height='5' fill='black' /> <circle cx='50' cy='50' r='23' fill='black' /> </mask> </defs> <polygon points='50,0 100,50 0,50' fill='#008BE3' mask='url(#cutout)' /> <polygon points='0,50 100,50 50,100' fill='#00C8A0' mask='url(#cutout)' /> <circle cx='50' cy='50' r='18' fill='#FAA732' /> </svg>" >}}
-We tried. But our papers were shot down for not matching the current dogma of the sciences. 
+We tried. But our papers were shot down for not matching the current dogma of the sciences.
+
+Instead of wasting energy trying to fit their materialist mold, we just went our own was and followed the mold of Nature.
 
 We realized that academia is like a Church that protects its own interests and dogmas, instead of revealing the true nature of reality. So we post our content online, including on Youtube, Facebook, Tiktok, and Linkedin. 
 {{< /l >}}
@@ -50,7 +50,7 @@ Who is on the team?
 {{< /r >}}
 
 {{< l a="Superphysics" v="<svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'> <defs> <mask id='cutout'> <rect width='100' height='100' fill='white' /> <rect x='0' y='47.5' width='100' height='5' fill='black' /> <circle cx='50' cy='50' r='23' fill='black' /> </mask> </defs> <polygon points='50,0 100,50 0,50' fill='#008BE3' mask='url(#cutout)' /> <polygon points='0,50 100,50 50,100' fill='#00C8A0' mask='url(#cutout)' /> <circle cx='50' cy='50' r='18' fill='#FAA732' /> </svg>" >}}
-The core team and volunteers have changed a lot since 2015. We keep an updated list [here](/team).
+The core team and volunteers have changed a lot since 2015. We keep an updated list [here](/about).
 {{< /l >}}
 
 
@@ -74,9 +74,11 @@ So we created Superphysics as the core that the new science would be built on:
 These are very huge and diverse topics and we often forget some details. So we made short videos to refresh our own memory.
 
 Before AI, we could make 1 video in a day. But thanks to AI we can make 3-4. So AI has been a massive help.
+
+People have complained at our videos as AI slop. But their egotistic selves fail to see that our videos are **for us** not for them. A video is good if it explains all core principles in a short as time as possible. An example is this video on tetras which is a concept that we ourselves are grappling with:
 {{< /r >}}
 
-
+{{< youtube XSJeDc1e4ik >}}
 
 
 {{< r a="Asker" v="<svg width='100%' height='100%' viewBox='11.5 6 25 21' > <defs> <style> .cls-1{fill:#f7cc94;} .cls-2{fill:#f4b392;} .cls-3{fill:#3f1400;} .cls-4{fill:none;stroke:#3f1400;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5px;} </style> </defs> <g id='head_and_face'> <path class='cls-2' d='M31.41,18.3a10.33,10.33,0,0,1-3.67,7.39a10.33,10.33,0,0,1-7.48,0a10.33,10.33,0,0,1-3.67-7.39C17,13.39,20.18,9.57,24,9.57S31,13.39,31.41,18.3Z'/> <path class='cls-1' d='M31.48,17.06a10,10,0,0,1-.07,1.24,10.33,10.33,0,0,1-3.67,7.39,10.33,10.33,0,0,1-7.48,0,10.33,10.33,0,0,1-3.67-7.39,10,10,0,0,1-.07-1.24c0-5.52,3.34-10,7.48-10S31.48,11.54,31.48,17.06Z'/> <path class='cls-1' d='M34,17.06a2.5,2.5,0,0,1-2.5,2.49c-1.37,0,0-1.12,0-2.49s-1.37-2.5,0-2.5A2.5,2.5,0,0,1,34,17.06Z'/> <path class='cls-1' d='M14,17.06a2.5,2.5,0,0,0,2.5,2.49c1.37,0,0-1.12,0-2.49s1.37-2.5,0-2.5A2.5,2.5,0,0,0,14,17.06Z'/> <circle class='cls-3' cx='21.01' cy='14.81' r='0.5'/> <circle class='cls-3' cx='26.99' cy='14.81' r='0.5'/> <path class='cls-4' d='M19.26,13.31s1.7-2,3.49-1'/> <path class='cls-4' d='M28.74,13.31s-1.7-2-3.49-1'/> <path class='cls-4' d='M23.5,15.31s-2,5-1,5h1'/> <path class='cls-4' d='M23.5,22.3s3,0,4-1'/> <path class='cls-3' d='M17.18,15.08s1-4.87,2.93-4.87,1.94,1,4.86,1,6.82,3.9,6.82,3.9,3.38-5.38-1-9.74c-1.95-1.94-6.82-2.92-9.74,0s-2.92,2-3.9,2-2.92,0-2.92,2S17.18,15.08,17.18,15.08Z'/> </g> </svg>" >}}
@@ -87,7 +89,11 @@ Why do you make AI songs for Superphysics?
 
 {{< l a="Superphysics" v="<svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'> <defs> <mask id='cutout'> <rect width='100' height='100' fill='white' /> <rect x='0' y='47.5' width='100' height='5' fill='black' /> <circle cx='50' cy='50' r='23' fill='black' /> </mask> </defs> <polygon points='50,0 100,50 0,50' fill='#008BE3' mask='url(#cutout)' /> <polygon points='0,50 100,50 50,100' fill='#00C8A0' mask='url(#cutout)' /> <circle cx='50' cy='50' r='18' fill='#FAA732' /> </svg>" >}}
 Songs help teach a concept or make it more memorable. For example, A-B-C song is used to teach the alphabet to kids. Likewise, we make songs to help us remember Superphysics principles.
+
+Our favorite so far is our MSQ song which is about our alternative to the Standard Model of Physics. It helps us remember the order of the names and see if the names sound consistent or silly. 
 {{< /l >}}
+
+{{< youtube Lwl0GUpniXM >}}
 
 
 {{< r a="Asker" v="<svg width='100%' height='100%' viewBox='11.5 6 25 21' > <defs> <style> .cls-1{fill:#f7cc94;} .cls-2{fill:#f4b392;} .cls-3{fill:#3f1400;} .cls-4{fill:none;stroke:#3f1400;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5px;} </style> </defs> <g id='head_and_face'> <path class='cls-2' d='M31.41,18.3a10.33,10.33,0,0,1-3.67,7.39a10.33,10.33,0,0,1-7.48,0a10.33,10.33,0,0,1-3.67-7.39C17,13.39,20.18,9.57,24,9.57S31,13.39,31.41,18.3Z'/> <path class='cls-1' d='M31.48,17.06a10,10,0,0,1-.07,1.24,10.33,10.33,0,0,1-3.67,7.39,10.33,10.33,0,0,1-7.48,0,10.33,10.33,0,0,1-3.67-7.39,10,10,0,0,1-.07-1.24c0-5.52,3.34-10,7.48-10S31.48,11.54,31.48,17.06Z'/> <path class='cls-1' d='M34,17.06a2.5,2.5,0,0,1-2.5,2.49c-1.37,0,0-1.12,0-2.49s-1.37-2.5,0-2.5A2.5,2.5,0,0,1,34,17.06Z'/> <path class='cls-1' d='M14,17.06a2.5,2.5,0,0,0,2.5,2.49c1.37,0,0-1.12,0-2.49s1.37-2.5,0-2.5A2.5,2.5,0,0,0,14,17.06Z'/> <circle class='cls-3' cx='21.01' cy='14.81' r='0.5'/> <circle class='cls-3' cx='26.99' cy='14.81' r='0.5'/> <path class='cls-4' d='M19.26,13.31s1.7-2,3.49-1'/> <path class='cls-4' d='M28.74,13.31s-1.7-2-3.49-1'/> <path class='cls-4' d='M23.5,15.31s-2,5-1,5h1'/> <path class='cls-4' d='M23.5,22.3s3,0,4-1'/> <path class='cls-3' d='M17.18,15.08s1-4.87,2.93-4.87,1.94,1,4.86,1,6.82,3.9,6.82,3.9,3.38-5.38-1-9.74c-1.95-1.94-6.82-2.92-9.74,0s-2.92,2-3.9,2-2.92,0-2.92,2S17.18,15.08,17.18,15.08Z'/> </g> </svg>" >}}
@@ -109,7 +115,7 @@ Why are there broken links?
 
 
 {{< l a="Superphysics" v="<svg width='100%' height='100%' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'> <defs> <mask id='cutout'> <rect width='100' height='100' fill='white' /> <rect x='0' y='47.5' width='100' height='5' fill='black' /> <circle cx='50' cy='50' r='23' fill='black' /> </mask> </defs> <polygon points='50,0 100,50 0,50' fill='#008BE3' mask='url(#cutout)' /> <polygon points='0,50 100,50 50,100' fill='#00C8A0' mask='url(#cutout)' /> <circle cx='50' cy='50' r='18' fill='#FAA732' /> </svg>" >}}
-Sometimes, we find a better arrangement for the content and we transfer them or merge them with others. This is common during [breaking changes](/news/changes). 
+Sometimes, we find a better arrangement for the content and we transfer them or merge them with others. This is common during [breaking changes](/news/26-07-13/).
 {{< /l >}}
 
 
