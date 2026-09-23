@@ -25,7 +25,7 @@ This ratio is then applied on masses and spread over the distance between them, 
 
 We reinterpret Newton's Universal Law of Gravitation as:
 
-F = G m<sub>1</sub> m<sub>2</sub> / r<sup>2</sup>
+**F = G m<sub>1</sub> m<sub>2</sub> / r<sup>2</sup>**
 
 - F: Force from the volume of displaced space particles or aether
 - G: Volume of displaced space particles or aether
@@ -33,6 +33,16 @@ F = G m<sub>1</sub> m<sub>2</sub> / r<sup>2</sup>
 - r: distance between masses (homogneous volume of aether)
 
 So different volumes or densities create different force values.
+
+
+
+## Proof 2 Irregular Balloons
+
+This is easily proven by a 2-balloon experiment:
+
+{{< youtube rSnnScAyIjI >}}
+
+F = G M1</sub> m<sub>2</sub> / r<sup>2</sup>
 
 
 <!-- By contrast, René Descartes’ physics rejected the very concept of empty space. In a Cartesian universe, what we perceive as a vacuum is actually a dense plenum packed with subtle matter—primarily the **2nd Element** (spherical space particles or *materia coelestis*). When interpreted through this lens, Newton’s Universal Law of Gravitation ceases to be an unexplained "action-at-a-distance" and instead becomes a concrete equation of fluid displacement and pressure gradients.
