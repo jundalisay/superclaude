@@ -42,7 +42,23 @@ This is easily proven by a 2-balloon experiment:
 
 {{< youtube rSnnScAyIjI >}}
 
-F = G M1</sub> m<sub>2</sub> / r<sup>2</sup>
+**G M m / r<sup>2</sup>**
+
+- G is the displacement of space particles done by matter
+- M is lower density of space particles in the large balloon
+- m is higher density of space particles in the small balloon
+- r is the homogenous volume of space as a unit
+
+In other words:
+- the smaller balloon `m` has higher space pressure, but lower material air pressure or mass. 
+- the larger balloon `m` has lower space pressure, but higher material air pressure or mass. 
+
+This makes the high space pressure go into the low space pressure. This causes a reverse reaction in the material layer as the smaller mass in the small balloon going into the mass of the larger balloon. 
+
+The air in the small balloon going into the large balloon is exactly how small masses are attracted to larger masses. The surface of the mass does not change the dynamics (other than for van der Waals type of effects) because the important thing is the density of the matter. 
+
+So this is an example of the Newtonian Gravity interpreted in Descartes aether framework. 
+
 
 
 <!-- By contrast, René Descartes’ physics rejected the very concept of empty space. In a Cartesian universe, what we perceive as a vacuum is actually a dense plenum packed with subtle matter—primarily the **2nd Element** (spherical space particles or *materia coelestis*). When interpreted through this lens, Newton’s Universal Law of Gravitation ceases to be an unexplained "action-at-a-distance" and instead becomes a concrete equation of fluid displacement and pressure gradients.
