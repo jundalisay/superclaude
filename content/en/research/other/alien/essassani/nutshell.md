@@ -89,7 +89,9 @@ Being positive and unattached in Hinduism is known as "renouncing the fruits of 
 
 ## Historical Sassani and Other Sassani 
 
-The earliest recorded interaction of humans with Sassani was the Sassanid empire. The founder of that Empire knew that Sassani and was inspired by him and so he named his child Sassan after that Sassani. 
+The earliest recorded interaction of humans with Sassani was the Sassanid empire. 
+
+The founder of the Sassanid Empire met or encountered a Sassani alien whom the Persians called a god. So he named his child [Sassan](https://en.wikipedia.org/wiki/Sasan) after that Sassani god or alien. 
 
 Historically, Sassan reintroduced the divine (alien) right of rule by introducing the Shah system of rule, since Shah is the star of the Sassani, as opposed to system of Cyrus that caused the invasion of Greece. 
 
