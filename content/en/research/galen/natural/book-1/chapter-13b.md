@@ -71,7 +71,7 @@ He therefore says that safflower,105 the Cnidian berry,106 and Hippophaes,107 do
 
 And yet this drug may be clearly seen to do good to numbers of people! “Yes,” says he, “they derive benefit certainly, but merely in proportion to the evacuation.” ... But if you give these cases a drug which draws off phlegm they will not be benefited.
 
- This is so obvious that even those who make experience alone their starting-point111 are aware of it; and these people make it a cardinal point of their teaching to trust to no arguments, but only to what can be clearly seen. In this, then, they show good sense; whereas Asclepiades goes far astray in bidding us distrust our senses where obvious facts plainly overturn his hypotheses. Much better would it have been for him not to assail obvious facts, but rather to devote himself entirely to these.
+This is so obvious that even those who make experience alone their starting-point111 are aware of it; and these people make it a cardinal point of their teaching to trust to no arguments, but only to what can be clearly seen. In this, then, they show good sense; whereas Asclepiades goes far astray in bidding us distrust our senses where obvious facts plainly overturn his hypotheses. Much better would it have been for him not to assail obvious facts, but rather to devote himself entirely to these.
 
 Is it, then, these facts only which are plainly irreconcilable with the views of Asclepiades? Is not also the fact that in summer yellow bile is evacuated in greater quantity by the same drugs, and in winter phlegm, and that in a young man more bile is evacuated, and in an old man more phlegm? 
 

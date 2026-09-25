@@ -91,7 +91,9 @@ Being positive and unattached in Hinduism is known as "renouncing the fruits of 
 
 The earliest recorded interaction of humans with Sassani was the Sassanid empire. The founder of that Empire knew that Sassani and was inspired by him and so he named his child Sassan after that Sassani. 
 
-Historically, Sassan reintroduced the divine (alien) right of rule by introducing the Shah system of rule, since Shah is the star of the Sassani, as opposed to the khshayathiya system of Cyrus. 
+Historically, Sassan reintroduced the divine (alien) right of rule by introducing the Shah system of rule, since Shah is the star of the Sassani, as opposed to system of Cyrus that caused the invasion of Greece. 
+
+<!-- the khshayathiya -->
 
 Bashar does the general work of introducing 4th and 5th density concepts. The other Sassani give the details. 
 
@@ -101,13 +103,17 @@ Bashar does the general work of introducing 4th and 5th density concepts. The ot
 
 ## Common Effects of Sassani Teachings
 
-The most commmon effect is for people to liberate themselves, which they do by quitting their jobs. This puts them into financial trouble and so many questions are about **Abundance**. 
+The most commmon effect is for people to liberate themselves, which they do by quitting their jobs. This puts them into financial trouble and so many questions are about [Abundance](/tags/abundance/) 
 
 There are some low vibration high ego people who get attracted by the liberation idea and so they follow Sassani teachings only to get themselves into trouble and even ask about suicide. 
 
-We only recommend Sassani Teachings to high vibration people like practicing Buddhists, Hindus, Taoists as a way to step up faster, since we classify the synchronicity that comes from following the formula as an **occult power** that separates 4th density beings from 3rd density i.e. 3rd density only has reason, but 4th density has subtler reason that leads to power and therefore liberation. 
+We only recommend Sassani Teachings to high vibration people who:
+- already have inherent psychic ability or occult powers
+- are practicing Buddhists, Hindus, Taoists as a way to step up faster
 
-4th density people are rare and so another common effect is isolation, loneliness, and being seen as crazy (which the Sassani regard as a good thing as crazy-good). 
+This is because we classify the synchronicity that comes from following the formula as an **occult power** that separates 4th density beings from 3rd density i.e. 3rd density only has reason, but 4th density has subtler reason that leads to power and therefore liberation. 
+
+4th density people are **rare** and so another common effect is isolation, loneliness, and being seen as crazy (which the Sassani regard as a good thing as crazy-good). 
 
 
 ## Sassani Technology

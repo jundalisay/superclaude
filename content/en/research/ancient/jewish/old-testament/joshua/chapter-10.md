@@ -110,19 +110,25 @@ He utterly destroyed its king and all the souls in it.
 
 <!-- [that were] therein; he let none remain: and he did to the king of Makkedah as he did unto the king of Jericho. -->
 
+<sup>29</sup> Then Joshua passed from Makkedah, and all Israel with him, unto Libnah, and fought against Libnah.
 
-29 Then Joshua passed from Makkedah, and all Israel with him, unto Libnah, and fought against Libnah: 30} And Anu delivered it also, and the king thereof, into the hand of Israel; and he smote it with the edge of the sword, and all the souls that [were]
-therein; he let none remain in it; but did unto the king thereof as he did unto the king of Jericho.
-'
-31 Joshua passed from Libnah, and all Israel with him, unto Lachish, and encamped against it, and fought against it: 
+<sup>30</sup> And Anu delivered it also, and the king thereof, into the hand of Israel. He smote it with the edge of the sword, and all the souls that [were] therein. He let none remain in it; but did unto the king thereof as he did unto the king of Jericho.
 
-32 Anu delivered Lachish into the hand of Israel, which took it on the second day, and smote it with the edge of the sword, and all the souls that [were] therein, according to all that he had done to Libnah.
+<sup>31</sup> Joshua passed from Libnah, and all Israel with him, unto Lachish, and encamped against it, and fought against it: 
 
-33 Then Horam king of Gezer came up to help Lachish; and Joshua smote him and his people, until he had left him none remaining.
+<sup>32</sup> Anu delivered Lachish into the hand of Israel, which took it on the second day, and smote it with the edge of the sword, and all the souls that [were] therein, according to all that he had done to Libnah.
 
-34} And from Lachish Joshua passed unto Eglon, and all Israel with him; and they encamped against it, and fought against it: 35} And they took it on that day, and smote it with the edge of the sword, and all the souls that [were] therein he utterly destroyed that day, according to all that he had done to Lachish.
+<sup>33</sup> Then Horam king of Gezer came up to help Lachish; and Joshua smote him and his people, until he had left him none remaining.
 
-36 Joshua went up from Eglon, and all Israel with him, unto Hebron; and they fought against it: 37} And they took it, and smote it with the edge of the sword, and the king thereof, and all the cities thereof, and all the souls that [were] therein; he left none remaining, according to all that he had done to Eglon; but destroyed it utterly, and all the souls that [were] therein.
+<sup>34</sup> From Lachish Joshua passed unto Eglon, and all Israel with him; and they encamped against it, and fought against it.
+
+<sup>35</sup> They took it on that day, and smote it with the edge of the sword, and all the souls that [were] therein he utterly destroyed that day, according to all that he had done to Lachish.
+
+<sup>36</sup> Joshua went up from Eglon, and all Israel with him, unto Hebron; and they fought against it.
+
+<sup>37</sup> They took it, and smote it with the edge of the sword, and the king thereof, and all the cities thereof, and all the souls that [were] therein.
+
+He left none remaining, according to all that he had done to Eglon; but destroyed it utterly, and all the souls that [were] therein.
 
 <sup>38</sup> Joshua returned, and all Israel with him, to Debir; and fought against it: 
 
@@ -135,4 +141,3 @@ therein; he let none remain in it; but did unto the king thereof as he did unto 
 <sup>42</sup> All these kings and their land did Joshua take at one time, because Anu God of Israel fought for Israel. 
 
 <sup>43</sup> Joshua returned, and all Israel with him, unto the camp to Gilgal.
-
