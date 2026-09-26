@@ -1,160 +1,74 @@
 ---
-title: "Federal Emergency Management Agency (fema)"
+title: "Federal Emergency Management Agency (FEMA)"
 date: 2024-11-01
 description: ""
 c: "firebrick"
 icon: "Heritage Foundation"
+tags: ['FEMA', 'CISA', 'Secret Service']
 ---
 
 
-#### Needed Reforms
+### Needed Reforms
 
-FEMA is the lead federal agency in preparing for and responding to disasters,
-but it is overtasked, overcompensates for the lack of state and local preparedness
-and response, and is regularly in deep debt. After passage of the 1988 Stafford Act,12
-the number of declared federal disasters rose dramatically as most disaster costs
-were shifted from states and local governments to the federal government. In
-addition, state-friendly FEMA regulations, such as a “per capita indicator,” failed
-to maintain the pace of inflation and made it easy to meet disaster declaration
-thresholds. This combination has left FEMA unprepared in both readiness and
-funding for the truly catastrophic disasters in which its services are most needed.
-Reform of FEMA requires a greater emphasis on federalism and state and local
-preparedness, leaving FEMA to focus on large, widespread disasters.
+FEMA is the lead federal agency in preparing for and responding to disasters, but it is overtasked, overcompensates for the lack of state and local preparedness and response, and is regularly in deep debt. After passage of the 1988 Stafford Act,12 the number of declared federal disasters rose dramatically as most disaster costs were shifted from states and local governments to the federal government.
 
-Under the Stafford Act, FEMA has the authority to adjust the per capita indicator for damages, which creates a threshold under which states and localities are
-not eligible for public assistance. FEMA should raise the threshold because the per
-capita indicator has not kept pace with inflation, and this over time has effectively
-lowered the threshold for public assistance and caused FEMA’s resources to be
-stretched perilously thin. Alternatively, applying a deductible could accomplish
-a similar outcome while also incentivizing states to take a more proactive role in
-their own preparedness and response capabilities. In addition, Congress should
-change the cost-share arrangement so that the federal government covers 25 per-
-cent of the costs for small disasters with the cost share reaching a maximum of 75
-percent for truly catastrophic disasters.
+In addition, state-friendly FEMA regulations, such as a “per capita indicator,” failed to maintain the pace of inflation and made it easy to meet disaster declaration thresholds. This combination has left FEMA unprepared in both readiness and funding for the truly catastrophic disasters in which its services are most needed. Reform of FEMA requires a greater emphasis on federalism and state and local preparedness, leaving FEMA to focus on large, widespread disasters.
 
-FEMA is also responsible for the National Flood Insurance Program (NFIP),
-nearly all of which is issued by the federal government. Washington provides
-insurance at prices lower than the actuarially fair rate, thereby subsidizing flood
-insurance. Then, when flood costs exceed NFIP’s revenue, FEMA seeks taxpay-
-er-funded bailouts. Current NFIP debt is USD20.5 billion, and in 2017, Congress
-canceled USD16 billion in debt when FEMA reached its borrowing authority limit.
-These subsidies and bailouts only encourage more development in flood zones,
-increasing the potential losses to both NFIP and the taxpayer. The NFIP should
-be wound down and replaced with private insurance starting with the least risky
-areas currently identified by the program.
+Under the Stafford Act, FEMA has the authority to adjust the per capita indicator for damages, which creates a threshold under which states and localities are not eligible for public assistance. FEMA should raise the threshold because the per capita indicator has not kept pace with inflation, and this over time has effectively lowered the threshold for public assistance and caused FEMA’s resources to be stretched perilously thin. Alternatively, applying a deductible could accomplish a similar outcome while also incentivizing states to take a more proactive role in their own preparedness and response capabilities. In addition, Congress should change the cost-share arrangement so that the federal government covers 25 per- cent of the costs for small disasters with the cost share reaching a maximum of 75 percent for truly catastrophic disasters.
+
+FEMA is also responsible for the National Flood Insurance Program (NFIP), nearly all of which is issued by the federal government. Washington provides insurance at prices lower than the actuarially fair rate, thereby subsidizing flood insurance. Then, when flood costs exceed NFIP’s revenue, FEMA seeks taxpayer-funded bailouts. 
+
+Current NFIP debt is USD20.5 billion, and in 2017, Congress canceled USD16 billion in debt when FEMA reached its borrowing authority limit. These subsidies and bailouts only encourage more development in flood zones, increasing the potential losses to both NFIP and the taxpayer. The NFIP should be wound down and replaced with private insurance starting with the least risky areas currently identified by the program.
 
 
 ### Budget Issues
 
-FEMA manages all grants for DHS, and these grants have become pork for states,
-localities, and special-interest groups. Since 2002, DHS/FEMA have provided
-more than USD56 billion in preparedness grants for state, local, tribal, and territorial
-governments. For FY 2023, President Biden requested more than USD3.5 billion for
-federal assistance grants.13 Funds provided under these programs do not provide
-measurable gains for preparedness or resiliency. Rather, more than any objective
-needs, political interests appear to direct the flow of nondisaster funds.
-The principles of federalism should be upheld; these indicate that states better
-understand their unique needs and should bear the costs of their particularized
-programs. FEMA employees in Washington, D.C., should not determine how bil-
-lions of federal tax dollars should be awarded to train local law enforcement officers
-in Texas, harden cybersecurity infrastructure in Utah, or supplement migrant
-shelters in Arizona. DHS should not be in the business of handing out federal tax
-dollars: These grants should be terminated. Accomplishing this, however, will
-require action by Members of Congress who repeatedly vote to fund grants for
-political reasons. The transition should focus on building resilience and return
-on investment in line with real threats.
+FEMA manages all grants for DHS, and these grants have become pork for states, localities, and special-interest groups. Since 2002, DHS/FEMA have provided more than USD56 billion in preparedness grants for state, local, tribal, and territorial governments. For FY 2023, President Biden requested more than USD3.5 billion for federal assistance grants.13 Funds provided under these programs do not provide measurable gains for preparedness or resiliency.
 
-Personnel
+Rather, more than any objective needs, political interests appear to direct the flow of nondisaster funds. The principles of federalism should be upheld; these indicate that states better understand their unique needs and should bear the costs of their particularized programs. FEMA employees in Washington, D.C., should not determine how bil- lions of federal tax dollars should be awarded to train local law enforcement officers in Texas, harden cybersecurity infrastructure in Utah, or supplement migrant shelters in Arizona. DHS should not be in the business of handing out federal tax dollars: These grants should be terminated. Accomplishing this, however, will require action by Members of Congress who repeatedly vote to fund grants for political reasons. The transition should focus on building resilience and return on investment in line with real threats.
 
-FEMA currently has four Senate-confirmed positions. Only the Administrator
-should be confirmed by the Senate; other political leadership need not be con-
-firmed by the Senate. Additionally, FEMA’s “springing Cabinet position” should be
-eliminated, as this creates significant unnecessary challenges to the functioning of
-the whole of DHS at points in time when coordinated responses are most needed.
-CYBERSECURITY AND INFRASTRUCTURE SECURITY AGENCY (CISA)
+### Personnel
 
-Needed Reforms
+FEMA currently has four Senate-confirmed positions. Only the Administrator should be confirmed by the Senate; other political leadership need not be confirmed by the Senate. 
 
-CISA is supposed to have two key roles: (1) protection of the federal civilian
-government networks (.gov) while coordinating the execution of national cyber
-defense and sharing information with non-federal and private-sector partners
+Additionally, FEMA’s “springing Cabinet position” should be eliminated, as this creates significant unnecessary challenges to the functioning of the whole of DHS at points in time when coordinated responses are most needed.
+
+
+## Cybersecurity And Infrastructure Security Agency (CISA)
+
+### Needed Reforms
+
+CISA is supposed to have 2 key roles:
+
+1. Protection of the federal civilian government networks (.gov) while coordinating the execution of national cyberdefense and sharing information with non-federal and private-sector partners
+
+2. National coordination of critical infrastructure security and resilience. 
+
+Yet CISA has rapidly expanded its scope into lanes where it does not belong, the most recent and most glaring example being censorship of so-called misinformation and disinformation.
+
+CISA’s funding and resources should align narrowly with the foregoing  2 mission requirements. The component’s emergency communications and Chemical Facility Anti-Terrorism Standards (CFATS) roles should be moved to FEMA; its school security functions should be transferred to state homeland security offices; and CISA should refrain from duplicating cybersecurity functions done elsewhere at the Department of Defense, FBI, National Security Agency, and U.S. Secret Service.
+
+Of the utmost urgency is immediately ending CISA’s counter-mis/disinforma- tion efforts. The federal government cannot be the arbiter of truth. CISA began this work because of alleged Russian misinformation in the 2016 election, which in fact turned out to be a Clinton campaign “dirty trick.” The Intelligence Commu- nity, including the NSA or DOD, should counter foreign actors. At the time of this writing, release of the Twitter Files has demonstrated that CISA has devolved into an unconstitutional censoring and election engineering apparatus of the political Left. In any event, the entirety of the CISA Cybersecurity Advisory Committee should be dismissed on Day One.
+
+For election security, CISA should help states and localities assess whether they have good cyber hygiene in their hardware and software in preparation for an election—but nothing more. This is of value to smaller localities, particularly by flagging who is attacking their websites. CISA should not be significantly involved closer to an election. Nor should it participate in messaging or propaganda.
 
 
 ## U.S. COAST GUARD (USCG)
 
 ### Needed Reforms
 
-The U.S. Coast Guard fleet should be sized to the needs of great-power compe-
-tition, specifically focusing efforts and investment on protecting U.S. waters, all
-while seeking to find (where feasible) more economical ways to perform USCG
-missions. The scope of the Coast Guard’s mission needs to be focused on protecting
-U.S. resources and interests in its home waters, specifically its Exclusive Economic
-Zone (200 miles from shore). USCG’s budget should address the growing demand
-for it to address the increasing threat from the Chinese fishing fleet in home waters
-as well as narcotics and migrant flows in the Caribbean and Eastern Pacific. Doing
-this will require reversing years of shortfalls in shipbuilding, maintenance, and
-upgrades of shore facilities as well as seeking more cost-effective ship and facility
-designs. In wartime, the USCG supports the Navy, but it has limited capability and
-capacity to support wartime missions outside home waters.
+The U.S. Coast Guard fleet should be sized to the needs of great-power competition, specifically focusing efforts and investment on protecting U.S. waters, all while seeking to find (where feasible) more economical ways to perform USCG missions. The scope of the Coast Guard’s mission needs to be focused on protecting U.S. resources and interests in its home waters, specifically its Exclusive Economic Zone (200 miles from shore). USCG’s budget should address the growing demand for it to address the increasing threat from the Chinese fishing fleet in home waters as well as narcotics and migrant flows in the Caribbean and Eastern Pacific. 
 
-and (2) national coordination of critical infrastructure security and resilience. Yet
-CISA has rapidly expanded its scope into lanes where it does not belong, the most
-recent and most glaring example being censorship of so-called misinformation
-and disinformation.
+Doing this will require reversing years of shortfalls in shipbuilding, maintenance, and upgrades of shore facilities as well as seeking more cost-effective ship and facility designs. In wartime, the USCG supports the Navy, but it has limited capability and capacity to support wartime missions outside home waters.
 
-CISA’s funding and resources should align narrowly with the foregoing two
-mission requirements. The component’s emergency communications and Chem-
-ical Facility Anti-Terrorism Standards (CFATS) roles should be moved to FEMA;
-its school security functions should be transferred to state homeland security
-offices; and CISA should refrain from duplicating cybersecurity functions done
-elsewhere at the Department of Defense, FBI, National Security Agency, and U.S.
-Secret Service.
 
-Of the utmost urgency is immediately ending CISA’s counter-mis/disinforma-
-tion efforts. The federal government cannot be the arbiter of truth. CISA began
-this work because of alleged Russian misinformation in the 2016 election, which
-in fact turned out to be a Clinton campaign “dirty trick.” The Intelligence Commu-
-nity, including the NSA or DOD, should counter foreign actors. At the time of this
-writing, release of the Twitter Files has demonstrated that CISA has devolved into
-an unconstitutional censoring and election engineering apparatus of the political
-Left. In any event, the entirety of the CISA Cybersecurity Advisory Committee
-should be dismissed on Day One.
+### New Policies
 
-For election security, CISA should help states and localities assess whether
-they have good cyber hygiene in their hardware and software in preparation for
-an election—but nothing more. This is of value to smaller localities, particularly by
-flagging who is attacking their websites. CISA should not be significantly involved
-closer to an election. Nor should it participate in messaging or propaganda.
+The Coast Guard’s mission set should be scaled down to match congressional budgeting in the long term, with any increased funding going to acquisitions based on an updated Fleet Mix Analysis. The current shipbuilding plan is insufficient based on USCG analysis, and the necessary numbers of planned Offshore Patrol Cutters and National Security Cutters are not supported by congressional budgets. The Coast Guard should be required to submit to Congress a long-range shipbuilding plan modeled on the Navy’s 30-Year Shipbuilding Plan. 
 
-New Policies
+Ideally this should become part of the Navy plan in a new comprehensive naval long-range shipbuilding plan to ensure better coherency in the services’ requirements. Outside of home waters, and following the Caribbean and Eastern Pacific, the Coast Guard should prioritize limited resources to the nation’s expansive Pacific waters to counter growing Chinese influence and encroachment. Expansion of facilities in American Samoa and basing of cutters there is one clear step in this direction and should be accelerated; looking to free association states (Palau, the Federated States of Micronesia, and the Republic of the Marshall Islands) for enhanced and persistent presence, assuming adequate congressional funding, is another such step.
 
-The Coast Guard’s mission set should be scaled down to match congressio-
-nal budgeting in the long term, with any increased funding going to acquisitions
-based on an updated Fleet Mix Analysis. The current shipbuilding plan is insuf-
-ficient based on USCG analysis, and the necessary numbers of planned Offshore
-Patrol Cutters and National Security Cutters are not supported by congressional
-budgets. The Coast Guard should be required to submit to Congress a long-range
-shipbuilding plan modeled on the Navy’s 30-Year Shipbuilding Plan. Ideally this
-should become part of the Navy plan in a new comprehensive naval long-range
-shipbuilding plan to ensure better coherency in the services’ requirements.
-Outside of home waters, and following the Caribbean and Eastern Pacific, the
-Coast Guard should prioritize limited resources to the nation’s expansive Pacific
-waters to counter growing Chinese influence and encroachment. Expansion of
-facilities in American Samoa and basing of cutters there is one clear step in this
-direction and should be accelerated; looking to free association states (Palau, the
-Federated States of Micronesia, and the Republic of the Marshall Islands) for
-enhanced and persistent presence, assuming adequate congressional funding, is
-another such step.
-
-The Secretary of the Navy should convene a naval board to review and reset
-requirements for Coast Guard wartime mission support. To inform and validate
-these updated requirements, the Chief of Naval Operations and the Coast Guard
-Commandant should execute dedicated annual joint wartime drills focused on
-USCG’s wartime missions in the Pacific (the money for these activities should be
-allocated from DOD). An interagency maritime coordination office focused on
-developing and overseeing comprehensive efforts to advance the nation’s mari-
-time interests and increase its military and commercial competitiveness should
-be established.
+The Secretary of the Navy should convene a naval board to review and reset requirements for Coast Guard wartime mission support. To inform and validate these updated requirements, the Chief of Naval Operations and the Coast Guard Commandant should execute dedicated annual joint wartime drills focused on USCG’s wartime missions in the Pacific (the money for these activities should be allocated from DOD). An interagency maritime coordination office focused on developing and overseeing comprehensive efforts to advance the nation’s mari- time interests and increase its military and commercial competitiveness should be established.
 
 Given the USCG’s history of underfunded missions, if the Coast Guard is to con-
 tinue to maintain the Arctic mission, money to do so adequately will be required
@@ -162,7 +76,8 @@ over and above current funding levels. Consideration should be given to shifting
 the Arctic mission to the Navy. Either way, the Arctic mission should be closely
 coordinated with our Canadian, Danish, and other allies.
 
-Personnel
+
+### Personnel
 
 USCG is facing recruitment challenges similar to those faced by the military
 services. The Administration should stop the messaging on wokeness and diversity
@@ -172,14 +87,12 @@ re-vet any promotions and hiring that occurred on the Biden Administration’s
 watch while also re-onboarding any USCG personnel who were dismissed from
 service for refusing to take the COVID-19 “vaccine,” with time in service credited to such returnees. These two steps could be foundational for any improvements in the recruiting process.
 
-U.S. SECRET SERVICE (USSS)
 
-Needed Reforms
-New Policies
+## U.S. SECRET SERVICE (USSS)
 
-USSS should transfer to the Department of Justice and Department of the
-Treasury all investigations that are not related to its protective function. It should
-begin the logistical operation of closing all field offices throughout the country and
+### Needed Reforms
+
+USSS should transfer to the Department of Justice and Department of the Treasury all investigations that are not related to its protective function. It should begin the logistical operation of closing all field offices throughout the country and
 internationally to the extent they are not taken over by Treasury or Justice. USSS
 agents stationed outside of Washington, D.C., should be transferred to work in
 Immigration and Customs Enforcement field offices where they would continue to
@@ -224,14 +137,16 @@ Biden spending a historic amount of time for a President at his Delaware residen
 This has left the American people in the dark as to who is influencing the highest
 levels of their own government.
 
-Budget
+### Budget 
+
 The suggested reforms would result in a significant USSS budget reduction,
 primarily because the agency would relinquish dozens of physical offices through-
 out the U.S. and internationally. Some amount of savings should be used to fix the
 personnel problems and for recruitment initiatives aimed at individuals who are
 inclined to join a protection-focused agency.
 
-Personnel
+
+### Personnel
 
 As documented extensively in the above-referenced 2015 bipartisan congressio-
 nal report, low morale and high turnover are key drivers of USSS problems. With
@@ -239,6 +154,7 @@ their mission focused on protection, agents would no longer spend the bulk of
 their time developing unrelated skillsets. Instead, USSS agents could hone their
 protection skills and pursue a protection career path in the agency rather than
 quickly leaving USSS for high-paying corporate security jobs.
+
 The Uniform Division (UD) of USSS requires a significant staffing increase.
 As documented in the bipartisan report, understaffing results in unpredictable
 and long hours, which in turn result in high turnover, which only compounds
