@@ -1,26 +1,34 @@
 ---
 heading: "Unit 2"
-title: "How the Free Aether Reverses Spin"
+title: "How the Anti-Aether Reverses Spin"
 # date: 2020-01-31
 image: "/graphics/flipbook.gif"
-description: "According to Physics, the universe was created through a Big Bang of a material Singularity. This is false."
+description: "The Anti-Aether reverses the spin of particles to create anti-particles"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 weight: 27
 draft: true
 icon: "Juan"
+tags: ['anti-aether']
 ---
 
 
 <!-- Gets Rid of Supersymmetry -->
 
 
-The free aether results from instabilities in the aetherspace. 
+The Anti-Aether results from instabilities in the aetherspace. 
 
 This happens when the aetherspace is bombarded and has excess pure aether according to the limits of the Law of Conservation of Substance. 
 
-In essence, the free aether flips the spin of the particle that it merges with. 
+This leads to an overbending of the aether or empty space outside of it which then flips the spin of that aether to create the Anti-Aether. 
+
+This Anti-Aether then flips whatever particles it merges with.
+
+<!-- is in it or immediately next or contiguous to it. 
+
+In essence, the free aether flips the spin of the particle that it .  -->
+
 
 
 <!-- The book *The Grand Design* by Stephen Hawking, explains the plague of infinities that afflict the current understanding of physical particles. 

@@ -9,6 +9,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 weight: 19
+# tags: ['Densities', 'Dimensions']
 icon: "Juan"
 ---
 

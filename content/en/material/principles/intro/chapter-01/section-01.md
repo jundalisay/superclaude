@@ -9,6 +9,7 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 3
 icon: "Superphysics"
+tags: ['5 Elements']
 ---
 
 
