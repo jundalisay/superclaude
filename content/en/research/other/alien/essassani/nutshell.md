@@ -9,7 +9,7 @@ description: "This is for people who have no knowledge of aliens or vibrations o
 
 
 
-The Sassani are an advanced 4th density alien species that come from the planet Essassani in a star called Shah near the Orion's belt in a parallel reality (Humans are 3rd density, animals are 2nd density, rocks are 1st density, spirits are 5th density). 
+The Sassani are an advanced 4th density alien species that come from the planet Essassani with a green star called *Shah* near the Orion's belt in a parallel reality (Humans are 3rd density, animals are 2nd density, rocks are 1st density, spirits are 5th density). 
 
 They are similar to humans in the sense that they have eyes, ears, arms, and legs just like us. 
 
@@ -19,8 +19,8 @@ They are able to talk to humans through the phenomenon called "channeling" (Giao
 
 This is how we are able to learn about their civilization and technologies. 
 
-Since 1983, they have been communicating with an American named Darryl Anka. They have also channeled through:
-- Ayako Sekino
+Since 1983, they have been communicating with an American named Darryl Anka via Bashar. They have also channeled through:
+- Ayako Sekino (Bashar)
 - Andrew Bayuk (Elan)
 - Tyler Ellison (Ryokah, Shikoi)
 - etc 
@@ -30,11 +30,11 @@ The internet and Youtube have allowed their communications to be known by more p
 
 ## Their Agenda
 
-Their goal is to help humans advance mentally and spiritually by explaining how the universe works in order to create the new race called the **Anu Het** which will aid our quadrant of the galaxy as it merges with the higher vibration Andromeda galaxy. 
+Their goal is to help humans advance mentally and spiritually by explaining how the universe works in order to create the new race called the **Anu Het** which will aid our quadrant of the galaxy as it merges with the higher vibration [Andromeda galaxy](https://en.wikipedia.org/wiki/Andromeda%E2%80%93Milky_Way_collision). 
 
 To achieve this long term goal, they have a short-medium term goal of positively colonizing Earth with hybrids. The Sassani Bashar does this by channeling a hybrid called Willa. 
 
-Unlike European colonization which was destructive and negative, Hybrid colonization is positive similar to how the Indian Gupta empire colonized and bootstrapped Sri Lanka, Indonesia, Thailand, Cambodia, the Philippines as proven by them being Hindu such as Bali, spreading Dharma in the process (The Sassani call dharma as 'excitement' -- their formula is their way to make people follow their Dharma). 
+Unlike European colonization which was destructive and negative, Hybrid colonization is positive similar to how the Indian Gupta empire colonized and bootstrapped Sri Lanka, Indonesia, Thailand, Cambodia, and the Philippines as proven by them being Hindu such as Bali, spreading Dharma in the process (The Sassani call dharma as 'excitement' -- their formula is their way to make people follow their Dharma). 
 
 {{< n n="We classify the Sassani philosophy under path of action (karma yoga) instead of the traditional path of love (bhakti yoga). In the Sassani system, love is realized after action. But in the Hindu system, action is done because of love or devotion." >}}
 
@@ -93,7 +93,9 @@ The earliest recorded interaction of humans with Sassani was the Sassanid empire
 
 The founder of the Sassanid Empire met or encountered a Sassani alien whom the Persians called a god. So he named his child [Sassan](https://en.wikipedia.org/wiki/Sasan) after that Sassani god or alien. 
 
-Historically, Sassan reintroduced the divine (alien) right of rule by introducing the Shah system of rule, since Shah is the star of the Sassani, as opposed to system of Cyrus that caused the invasion of Greece. 
+Historically, Sassan reintroduced the divine (alien) right of rule by introducing the Shah system of rule, since Shah is the star of the Sassani.
+
+<!-- , as opposed to system of Cyrus that caused the invasion of Greece.  -->
 
 <!-- the khshayathiya -->
 
