@@ -1,11 +1,13 @@
 ---
-title: "Pope and Patriarch"
+title: "Pope and Patriarch; Jesus"
 description: "The Patriarch was called 'Pope' meaning 'Father of fathers'. It first appeared in Egypt, according to the theory of Jirjis b. al-'Amid in his History"
 c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 31"
 weight: 74
+tags: ['pope', 'Jesus']
 ---
+
 
 
 The Patriarch was called 'Pope' meaning 'Father of fathers'. 

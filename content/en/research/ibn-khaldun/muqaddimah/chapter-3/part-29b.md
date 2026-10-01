@@ -14,9 +14,11 @@ This is one of the positions under the caliphate. It settles suits and breaks of
 
 Therefore, it is one of the positions that belongs to the caliphate and falls under it generally. At the beginning of Islam, the caliphs exercised the office of judge personally. 
 
-They did not permit anyone else to function as judge in any matter. The
-first caliph to charge someone else with exercise of (the office of judge) was 'Umar.
-He appointed Abu d-Darda' 368 to be judge with him in Medina, he appointed Shurayh as judge in al-Basrah, and Abu Musa al-Ash'ari as judge in al-Kufah. On appointing (Abu Musa), he wrote him the famous letter that contains all the laws that
+They did not permit anyone else to function as judge in any matter. The first caliph to charge someone else with exercise of (the office of judge) was 'Umar.
+
+He appointed Abu d-Darda' 368 to be judge with him in Medina, he appointed Shurayh as judge in al-Basrah, and Abu Musa al-Ash'ari as judge in al-Kufah. 
+
+On appointing (Abu Musa), he wrote him the famous letter that contains all the laws that
 govern the office of judge, and is the basis of them. 
 
 He writes: <!-- = 369 -->
@@ -70,8 +72,8 @@ punishments not foreseen by the religious law, with the use of indirect and circ
 
 
 The first caliphs exercised that function personally until the days of the 'Abbasid al-Muhtadi. Often, they also delegated it to their judges. 'All, 375 for instance, (delegated torts) to his judge, Abu Idris al-Khawlani; 376 al-Ma'min to
-Yahya b. Aktham; 377 and al-Mu'tasim to Ibn Abi Du'id.378 They also often entrusted the judges with leadership of the holy war in summer campaigns. Yahyi b.  Aktham thus went on a summer campaign against the Byzantines in the days of al-
-Ma'mun. The same was done by Mundhir b. Sa'id, 379 judge under the Spanish
-Umayyad 'Abd-ar-Rahman an-Nasir. 
+Yahya b. Aktham; 377 and al-Mu'tasim to Ibn Abi Du'id.378 They also often entrusted the judges with leadership of the holy war in summer campaigns. 
+
+Yahyi b. Aktham thus went on a summer campaign against the Byzantines in the days of al-Ma'mun. The same was done by Mundhir b. Sa'id, 379 judge under the Spanish Umayyad 'Abd-ar-Rahman an-Nasir. 
 
 Making appointments to these functions was the task of the caliphs or of those to whom they entrusted it, such as a minister to whom full powers were delegated, or a ruler who had gained superiority.

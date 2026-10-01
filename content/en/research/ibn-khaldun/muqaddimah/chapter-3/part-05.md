@@ -4,6 +4,7 @@ description: "Religious propaganda gives a dynasty at its beginning more power i
 c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Parts 5-6"
+tags: ['group feeling']
 weight: 14
 writer:
   name: Ibn Khaldun

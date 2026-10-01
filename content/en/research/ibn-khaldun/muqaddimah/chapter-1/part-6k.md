@@ -5,6 +5,7 @@ c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 6k"
 weight: 44
+tags: ['sand writing']
 writer:
   name: Ibn Khaldun
   url: https://en.wikipedia.org/wiki/Ibn_Khaldun

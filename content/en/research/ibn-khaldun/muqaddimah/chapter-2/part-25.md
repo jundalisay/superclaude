@@ -4,6 +4,7 @@ description: "The Arabs are a savage nation"
 c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 25-26"
+tags: ['Arabs']
 writer:
   name: Ibn Khaldun
   url: https://en.wikipedia.org/wiki/Ibn_Khaldun

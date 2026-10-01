@@ -5,6 +5,7 @@ c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Parts 4-5"
 weight: 8
+tags: ['Bedouins']
 writer:
   name: Ibn Khaldun
   url: https://en.wikipedia.org/wiki/Ibn_Khaldun

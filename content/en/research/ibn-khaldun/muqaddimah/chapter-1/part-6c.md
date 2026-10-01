@@ -4,6 +4,7 @@ description: "As far as this (process) is concerned, human souls are of three ki
 c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 6c"
+tags: ['3 kinds of souls']
 weight: 32
 writer:
   name: Ibn Khaldun

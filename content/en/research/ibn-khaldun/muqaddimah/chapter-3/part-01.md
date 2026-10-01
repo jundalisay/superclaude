@@ -5,6 +5,7 @@ c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 1"
 weight: 8
+tags: ['group feeling']
 writer:
   name: Ibn Khaldun
   url: https://en.wikipedia.org/wiki/Ibn_Khaldun

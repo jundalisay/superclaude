@@ -6,6 +6,7 @@ icon: "Ibn Khaldun"
 heading: "Part 6i"
 weight: 42
 date: 2020-01-14
+tags: ['visions']
 writer:
   name: Ibn Khaldun
   url: https://en.wikipedia.org/wiki/Ibn_Khaldun

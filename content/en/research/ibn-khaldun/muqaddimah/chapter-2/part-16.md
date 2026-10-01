@@ -4,6 +4,7 @@ description: "The goal of group feeling is royal authority as it gives protectio
 c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 16"
+tags: ['group feeling']
 weight: 22
 writer:
   name: Ibn Khaldun

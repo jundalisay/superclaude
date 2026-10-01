@@ -4,6 +4,7 @@ description: "Purity of lineage is found only among the savage because of the po
 c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 9"
+tags: ['group feeling']
 weight: 14
 writer:
   name: Ibn Khaldun

@@ -6,6 +6,7 @@ description: "Parallel to the courses of all these stars in their spheres, there
 c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 2b"
+tags: ['Geocentric theory']
 weight: 6
 writer:
   name: Ibn Khaldun

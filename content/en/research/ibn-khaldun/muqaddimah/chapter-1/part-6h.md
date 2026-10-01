@@ -6,6 +6,7 @@ icon: "Ibn Khaldun"
 heading: "Part 6h"
 weight: 41
 date: 2020-01-14
+tags: ['soothsayers']
 writer:
   name: Ibn Khaldun
   url: https://en.wikipedia.org/wiki/Ibn_Khaldun

@@ -11,9 +11,23 @@ description: "This is for people who have no knowledge of aliens or vibrations o
 
 The Sassani are an advanced 4th density alien species that come from the planet Essassani with a green star called *Shah* near the Orion's belt in a parallel reality (Humans are 3rd density, animals are 2nd density, rocks are 1st density, spirits are 5th density). 
 
-They are similar to humans in the sense that they have eyes, ears, arms, and legs just like us. 
+## Part Gray
 
-However, they are much more advanced in intelligence and spirituality, to the point that they are psychic and can perform telepathy. 
+They are similar to humans in the sense that they have eyes, ears, arms, and legs just like us. This is because they are half gray and half human, being a creation of the Gray aliens in order to continue the extinct Gray culture. 
+
+
+{{< b >}}
+### The Gray Inconsistency of the Sassani
+
+Before 2000's the Sassani explained that the Grays were related to humans via the Anunnaki and are from Zeta Reticulum in our same dimension just like the Pleaideans. 
+
+But from the 2000's onwards, they change the Gray story saying that they are mutated humans from a parallel reality Earth (not Zeta Reticulum). 
+
+This is the only glaring inconsistency that we have found from the Sassani. The Grays being mutated humans is quite unbelievable especially since the Grays are described consistently by other groups as coming from Zeta Reticulum. We assume that the Sassani will defend this inconsistency by saying there are many factions of Grays. 
+{{< /b >}}
+
+
+The Sassani are much more advanced in intelligence and spirituality than humans, to the point that they are psychic and can perform telepathy. 
 
 They are able to talk to humans through the phenomenon called "channeling" (Giao tiếp với sinh vật ngoài hành tinh qua người truyền tin). 
 
@@ -108,6 +122,36 @@ Bashar does the general work of introducing 4th and 5th density concepts. The ot
 ## Common Effects of Sassani Teachings
 
 The most commmon effect is for people to liberate themselves, which they do by quitting their jobs. This puts them into financial trouble and so many questions are about [Abundance](/tags/abundance/) 
+
+
+{{< b >}}
+### Clear Example: June 1985 Transmission
+
+**Poor Woman:** 6 months ago, my husband and I lost our income. We embarked on an adventure of doing what we wanted to do and seeing if we could survive. Now I've got about $7 left and 2 days worth of food. My son only has about one day. He has to skimp. On one hand, I have an impulse to work real fast to get a little cash. But I also have another impulse to just ride it out, see what happens. Now I get mad at my husband because he isn't doing anything. 
+
+**Bashar:** You know that everything will be all right. Some people will just sit around and do nothing at all even when they know they can act, because they know everything will be all right.
+
+**Poor Woman:** Yes I just sit around and do nothing. But I also feel like, "Go do something."
+
+**Bashar:** If you are in touch with yourself, you will know the difference between when it is "go do something" because you have fear or "go do something" because that is your instinct.
+
+**Another Woman:** Why can't you do something and create opportunity?
+
+**Poor Woman:** I feel that getting a job is the old idea. But I don't really want to go knocking on somebody's door you know say: please give me money! I feel that my imagination can create something better.. something like making money come in the door.
+
+**Bashar:** So I would suggest that there those in this room each throw $1 at her.
+
+**Another Woman:** I would.
+
+[they throw money at her, everyone happily cheering]
+
+**Bashar:** Now you have created a flow of abundance that will create a vacuum which will be filled. How do you all feel about creating that idea together? Cost you nothing. Made you feel good. Made her feel good. 
+
+**Poor Woman:** I just doubled my net worth!
+
+**Bashar:** You always have more in that way than you need. There is no reason to feel that anything has been parted with. You have set up a flow which will now be contained within the unit of the mass consciousness here and now. To initiate the flow, you demonstrated that you do not need to spend much of your money. From having one portion that is non-abundant, you are now all abundant. You have set up a flow, the momentum of which will now increase because you have allowed a space for that momentum to flow into.
+{{< /b >}}
+
 
 There are some low vibration high ego people who get attracted by the liberation idea and so they follow Sassani teachings only to get themselves into trouble and even ask about suicide. 
 

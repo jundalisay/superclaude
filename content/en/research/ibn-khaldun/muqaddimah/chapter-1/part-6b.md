@@ -1,10 +1,11 @@
 ---
-title: "The 5 Elements"
+title: "The Senses"
 description: "Each one of the elements is prepared to be transformed into the next higher or lower one, and sometimes is transformed"
 c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 6b"
 weight: 31
+tags: ['senses']
 writer:
   name: Ibn Khaldun
   url: https://en.wikipedia.org/wiki/Ibn_Khaldun

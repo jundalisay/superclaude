@@ -5,6 +5,7 @@ c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 1"
 weight: 2
+tags: ['sociology']
 writer:
   name: Ibn Khaldun
   url: https://en.wikipedia.org/wiki/Ibn_Khaldun

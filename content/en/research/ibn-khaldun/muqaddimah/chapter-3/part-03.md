@@ -4,6 +4,7 @@ description: "The group feeling in which a member of a royal family shares may h
 c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 3"
+tags: ['group feeling']
 weight: 12
 writer:
   name: Ibn Khaldun

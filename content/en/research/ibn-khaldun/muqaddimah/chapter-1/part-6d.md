@@ -12,9 +12,12 @@ writer:
 
 <!-- This is the meaning of the tradition in which the Prophet explained revelation, in reply to a question by  -->
 
-AlHarith b. Hisham 281 asked the Prophet Mohammad how the revelation came to him. Muhammad replied, 
+AlHarith b. Hisham asked the Prophet Mohammad how the revelation came to him. Muhammad replied:
 
-"At times, it comes to me like the ringing of a bell.  This affects me most. When it leaves me, I have retained what was said. At other times, the angel appears to me in the form of a man. He talks to me, and I retain the things he says." 
+{{< q a="Mohammad" >}}
+At times, it comes to me like the ringing of a bell.  This affects me most. When it leaves me, I have retained what was said. At other times, the angel appears to me in the form of a man. He talks to me, and I retain the things he says.
+{{< /q >}}
+
 
 This leads to 2 cases:
 1. The first case, as noise

@@ -4,7 +4,8 @@ weight: 44
 heading: "Part 6l"
 description: "Hisab an-nim aims to predict the victor and the vanquished when kings go to war with each other"
 c: "seagreen"
-icon: /icons/ibn.jpg
+icon: Ibn Khaldun
+tags: ['Numerology']
 writer:
   name: Ibn Khaldun
   url: https://en.wikipedia.org/wiki/Ibn_Khaldun

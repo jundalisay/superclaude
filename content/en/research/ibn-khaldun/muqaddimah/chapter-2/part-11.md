@@ -4,6 +4,7 @@ description: "This is because leadership exists only through superiority, and su
 c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 11"
+tags: ['Zayyanids']
 weight: 16
 writer:
   name: Ibn Khaldun
@@ -45,7 +46,9 @@ It is not known that any 'Abbasid ever entered the Maghrib.
 
 From the beginning of the 'Abbasid dynasty and thereafter, the Maghrib was under the influence of the Idrisids and the 'Ubaydid(-Fatimids), 'Alid enemies of the 'Abbasids. 
 
-No 'Abbasid would have become attached to a Shi'ah.Similarly, the Zayyanids, the 'Abd-al-Wadid rulers (of Tlemcen), claim to be descendants of al-Qasim b. Idris, basing their claim on the fact that their family is known to have descended from al-Qasim. 
+No 'Abbasid would have become attached to a Shi'ah.
+
+Similarly, the Zayyanids, the 'Abd-al-Wadid rulers (of Tlemcen), claim to be descendants of al-Qasim b. Idris, basing their claim on the fact that their family is known to have descended from al-Qasim. 
 
 In their own Zanitah dialect, they are called Ait al-Qasim 63 that is, Banu-l-Qasim. They claim that the Qasim (after whom they are named) was alQasim b. Idris, or al-Qasim b. Muhammad b. Idris. If that were true, all that can be said concerning that Qasim is that he fled his own realm and attached himself to (the Zanatah group of the 'Abd-al-Wad). 
 
