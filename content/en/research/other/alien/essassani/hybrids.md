@@ -26,14 +26,11 @@ Anu Het (7th Hybrid Race) | These will explore and unify many star systems. Het 
 
 Humans are evolving into Enanika which is essential to make the Anu Het.
 
-The Anu Het will be the founder beings for 
-
-
 The Founders (Founder Being) is a mix of races that handles a large cosmic program. They include:
-- the Mantis Bengs
+- the Mantis Beings
 - the Anu Het 
 
-The Anu Het will leads 100,000 years of peace in the Milky Way. 
+The Anu Het will be the founder beings and will lead 100,000 years of peace in the Milky Way (as it collides with Higher Density Andromeda Galaxy). 
 - An extension race of the Anu Het will facilitate the Anu Het agenda
 
 

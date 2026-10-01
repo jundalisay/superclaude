@@ -8,10 +8,11 @@ description: "Bashar answers Questions about Health"
 
 Everything should be taken in moderation. 
 
-Flouride lubricates the molecules in the body to make molecules flow faster. 
+Fluoride lubricates the molecules in the body to make molecules flow faster. 
 
 This is either good or bad depending on the person's chemistry.
 
+The body already gets the flouride that it needs from natural sources. Adding flouride to water could lead to excess flouride which is bad and so people should go against adding flouride to water.
 
 Hormones are the effect of belief.
 

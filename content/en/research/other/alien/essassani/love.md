@@ -54,6 +54,9 @@ It is a state of being that is pure unto itself. It allows a compassionate relat
 2. It is to see whether you have uncondtional love when conditions are imposed by your beliefs. 
 
 
+True unconditional love is easier to experience in 5th density when beings are no longer physical because physicality creates necessarily creates conditions unless you can look beyond the physicality while being physical.
+
+
 ## Relationships
 
 You must be complete to attract the proper relationship.
