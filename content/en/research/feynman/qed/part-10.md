@@ -1,4 +1,13 @@
-10 APPLICATION TO MESON THEORIES
+---
+heading: "Part 10"
+title: "APPLICATION TO MESON THEORIES"
+date: 2026-09-30
+weight: 31
+a: "Feynman"
+c: "darkgoldenrod"
+---
+
+
 
 The theories which have been developed to describe mesons and the in-
 teraction of nucleons can be easily expressed in the language used here. Cal-

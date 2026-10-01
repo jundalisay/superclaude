@@ -1,4 +1,12 @@
-4 EXPRESSION IN MOMENTUM AND ENERGY SPACE
+---
+heading: "Part 4"
+title: "EXPRESSION IN MOMENTUM AND ENERGY SPACE"
+date: 2026-09-30
+weight: 3
+a: "Feynman"
+c: "darkgoldenrod"
+---
+
 
 The evaluation of (9), as well as all the other more complicated expres-
 sions arising in these problems, is very much simplified by working in the

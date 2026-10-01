@@ -1,4 +1,14 @@
-6 RADIATIVE CORRECTIONS TO SCATTERING
+---
+heading: "Part 6"
+title: "RADIATIVE CORRECTIONS TO SCATTERING"
+date: 2026-09-30
+weight: 31
+a: "Feynman"
+c: "darkgoldenrod"
+---
+
+
+
 
 We can now complete the discussion of the radiative corrections to
 scattering. In the integrals we include the convergence factor C(k2), so that

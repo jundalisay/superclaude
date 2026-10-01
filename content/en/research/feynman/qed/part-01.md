@@ -1,6 +1,6 @@
 ---
-heading: "Abstract"
-title: "COMPARISON WITH THE HAMILTONIAN METHOD"
+heading: "Part 1"
+title: "Comparison With The Hamiltonian Method"
 date: 2026-09-30
 weight: 3
 a: "Feynman"

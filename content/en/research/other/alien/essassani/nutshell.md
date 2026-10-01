@@ -113,11 +113,16 @@ There are some low vibration high ego people who get attracted by the liberation
 
 We only recommend Sassani Teachings to high vibration people who:
 - already have inherent psychic ability or occult powers
-- are practicing Buddhists, Hindus, Taoists as a way to step up faster
+- are practicing Buddhists, Hindus, Taoists as a way to step up faster while being grounded on tried-and-tested systems
 
 This is because we classify the synchronicity that comes from following the formula as an **occult power** that separates 4th density beings from 3rd density i.e. 3rd density only has reason, but 4th density has subtler reason that leads to power and therefore liberation. 
 
 4th density people are **rare** and so another common effect is isolation, loneliness, and being seen as crazy (which the Sassani regard as a good thing as crazy-good). 
+
+<!-- There are many cases of Western New Age people going crazy or committing suicide or dying of terrible diseases becuse they went for spirituality or the higher densities by themselves:
+- Don Elkins of the Law of One committed suicide
+- Ron Hubbard of Scientology attempted suicide
+- Jane Roberts of Seth Material died painfully -->
 
 
 ## Sassani Technology

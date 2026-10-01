@@ -1,5 +1,5 @@
 ---
-heading: "Enlightened"
+# heading: "Enlightened"
 title: "Feynman, Richard"
 date: 2026-09-30
 weight: 32

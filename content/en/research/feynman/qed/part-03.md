@@ -1,6 +1,13 @@
+---
+heading: "Part 3"
+title: "The Self–Energy Problem"
+date: 2026-09-30
+weight: 3
+a: "Feynman"
+c: "darkgoldenrod"
+---
 
 
-3 THE SELF–ENERGY PROBLEM
 
 Having a term representing the mutual interaction of a pair of charges, we
 must include similar terms to represent the interaction of a charge with itself.
@@ -14,13 +21,13 @@ of the Einstein A and B coefficients can be deduced. A more practical direct ded
 of the expressions for real quanta will be given in the subsequent paper. It might be
 noted that (4) can be rewritten as describing the action on a, K(1)(3, 1) = i ∫ K+(3, 5) ×
 A(5)K+(5, 1)dτ5 of the potential Aμ(5) = e2 ∫ K+(4, 6)δ+(s2
-56)γμ × K+(6, 2)dτ6 arising
-from Maxwell’s equations −2Aμ = 4πjμ from a “current” jμ(6) = e2K+(4, 6)γμK+(6, 2)
+56)γμ × K+(6, 2)dτ6 arising from Maxwell’s equations −2Aμ = 4πjμ from a “current” jμ(6) = e2K+(4, 6)γμK+(6, 2)
 produced by particle b in going from 2 to 4. This is virtue of the fact that δ+ satisfies
 −2
 2δ+(s2
 21) = 4πδ(2, 1). (5)
-11
+
+
 may, according to I, be viewed also as a single electron (namely in case
 one electron was created in a pair with a positron destined to annihilate
 the other electron). Thus to the interaction between such electrons must
@@ -33,8 +40,8 @@ K(1)(2, 1) = −ie2 ∫ ∫ K+(2, 4)γμK+(4, 3)γμ
 ×K+(3, 1)dτ3dτ4δ+(s2
 43).
 (6)
-It arises because the electron instead of going from 1 directly to 2, may go
-(Fig. 2) first to 3, (K+(3, 1)), emit a quantum (γμ), proceed to 4, (K+(4, 3)),
+
+It arises because the electron instead of going from 1 directly to 2, may go (Fig. 2) first to 3, (K+(3, 1)), emit a quantum (γμ), proceed to 4, (K+(4, 3)),
 absorb it (γμ), and finally arrive at 2 (K+(2, 4)). The quantum must go from
 3 to 4 (δ+(s2
 43)).
@@ -64,7 +71,7 @@ R. P. Feynman, Rev. Mod. Phys. 17, 157 (1945), that electrons do not act on them
 will be a successful concept in quantum electrodynamics.
 11This is discussed in reference 5 in which it is pointed out that the concept of a wave
 function loses accuracy if there are delayed self-actions.
-12
+
 Figure 2: Interaction of an electron with itself, Eq. (6).
 Putting for f (1) the plane wave u exp(−ip · x1) where pμ is the energy (p4)
 and momentum of the electron (p2 = m2), and u is a constant 4-index
