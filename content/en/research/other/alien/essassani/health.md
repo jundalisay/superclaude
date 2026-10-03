@@ -17,3 +17,17 @@ The body already gets the flouride that it needs from natural sources. Adding fl
 Hormones are the effect of belief.
 
 Testosterone can make you aggressive (negative) or confident (positive). The negative beliefs makes the testosterones make people aggressive.
+
+
+
+Disease | Cause
+--- | ---
+Asthma | Very early suppression of self-expression
+Lupus | Past life male-female disconnect. Social Isolation and not being in immersed in Nature
+Chronic Fatigue Syndrome | Rigid Beliefs from Parents imposing detailed things to achieve
+Psoriasis | Being in the wrong environment
+Parkinson's Disease | Not getting enough sunlight
+
+
+
+
