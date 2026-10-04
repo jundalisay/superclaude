@@ -34,9 +34,9 @@ They are able to talk to humans through the phenomenon called "channeling" (Giao
 This is how we are able to learn about their civilization and technologies. 
 
 Since 1983, they have been communicating with an American named Darryl Anka via Bashar. They have also channeled through:
-- Ayako Sekino (Bashar)
-- Andrew Bayuk (Elan)
-- Tyler Ellison (Ryokah, Shikoi)
+- [Ayako Sekino](https://www.youtube.com/c/AyakoSekinoClass) (Bashar)
+- [Andrew Bayuk](https://www.youtube.com/@ElanInteractions) (Elan)
+- [Tyler Ellison](https://www.youtube.com/@thegalacticguide111) (Ryokah, Shikoi)
 - etc 
 
 The internet and Youtube have allowed their communications to be known by more people.
@@ -48,17 +48,16 @@ Their goal is to help humans advance mentally and spiritually by explaining how 
 
 To achieve this long term goal, they have a short-medium term goal of positively colonizing Earth with hybrids. The Sassani Bashar does this by channeling a hybrid called Willa. 
 
-Unlike European colonization which was destructive and negative, Hybrid colonization is positive similar to how the Indian Gupta empire colonized and bootstrapped Sri Lanka, Indonesia, Thailand, Cambodia, and the Philippines as proven by them being Hindu such as Bali, spreading Dharma in the process (The Sassani call dharma as 'excitement' -- their formula is their way to make people follow their Dharma). 
+Unlike European colonization which was destructive and negative, Hybrid colonization is positive similar to how the Indian Gupta empire colonized and bootstrapped Sri Lanka, Indonesia, Thailand, Cambodia, and the Philippines as proven by them being Hindu such as Bali, spreading Dharma in the process.
 
-{{< n n="We classify the Sassani philosophy under path of action (karma yoga) instead of the traditional path of love (bhakti yoga). In the Sassani system, love is realized after action. But in the Hindu system, action is done because of love or devotion." >}}
+
+{{< n n="The Sassani call dharma as 'excitement' -- their formula is their way to make people follow or find their Dharma or True Nature. We classify the Sassani philosophy under path of action (karma yoga) instead of the traditional path of love (bhakti yoga). In the Sassani system, love is realized after action. But in the Hindu system, action is done because of love or devotion." >}}
 
 
 
 ## The Formula
 
-And so they spread their philosophy of acting on your highest passion, which is very similar to The Law of Attraction. 
-
-Their difference with the Law of Attraction is that their philosophy is done through a specific formula:
+And so they spread their philosophy of acting on your highest passion, which is very similar to **The Law of Attraction**. Their difference with the Law of Attraction is that their philosophy is done through a specific formula:
 
 
 ### Step 1. Act on your HIGHEST Excitement or Passion

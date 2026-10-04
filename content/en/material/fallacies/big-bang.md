@@ -150,7 +150,6 @@ So now, aether means both 2nd and 5th Elements.
 To fix this we call the 5th Element as pure aether.  -->
 
 
-
 ## Matches the CMB as well
 
 {{< i s="/graphics/physics/sponge.jpg" a="CMB" >}}
@@ -195,4 +194,16 @@ We do not travel in third density and so we are not bound by the speed of light 
 This is consistent with us asserting that the Big Bang is a 3rd density theory that does not match the expanded view of the universe in 4th, 5th, 6th densities. In other words, it is false unless you want to stay stuck in 3rd density unable to do any space travel beyond the stars.
 
 
+
+## Sending Information Versus Tapping Already-Existing-Information
+
+The debunking of the Big Bang from James Webb data then points to a very important fact about information at the upper densities: **All information already exists. You just have to tap it.**
+
+In the lower densities, space and time are linear: information is "sent" from `A` to `B` and takes time to travel.
+
+But in 4th densities and above, space and time are no longer linear: information is tapped and is acquired **instantly**. This is the foundation of quantum computing, intuition and clairvoyance. Instead taking time to solve a long equation linearly step by step, you just snap your fingers and get the answer. 
+
+This is also the foundation for teleportation and free energy: energy is tapped from the aether as the vacuum of space **instantly**. 
+
+The focus shifts from accumulating energy to be sent over long distances, into getting the sensitivity to tap or push energy to specific locations. 
 

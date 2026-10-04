@@ -24,9 +24,11 @@ Disease | Cause
 --- | ---
 Asthma | Very early suppression of self-expression
 Lupus | Past life male-female disconnect. Social Isolation and not being in immersed in Nature
-Chronic Fatigue Syndrome | Rigid Beliefs from Parents imposing detailed things to achieve
+Chronic Fatigue Syndrome | Rigid Beliefs from Parents imposing detailed things to achieve, toxic metals such as metal teeth fillings that drain energy, Bashar suggests eating cucumber
 Psoriasis | Being in the wrong environment
-Parkinson's Disease | Not getting enough sunlight
+Parkinson's Disease | Not getting enough sunlight and electromagnetic anomalies that affect the nerves
+
+
 
 
 
