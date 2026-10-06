@@ -10,7 +10,7 @@ featured: true
 
 The Sassani are an advanced 4th density alien species from the planet Sassani in the Shah star system near Orion's belt in a parallel reality.
 
-They are a hybrid of human and Gray DNA created by the Grays (future humans). This means they are even closer to humans than the Grays. This is proven by them being able to procreate whereas the Grays could not.   
+They are a hybrid of human and Gray DNA created by the Gray aliens. This means they are even closer to humans than the Grays. This is proven by them being able to procreate whereas the Grays could not.   
 
 {{< i s="/graphics/bio/essassani.jpg" a="Sassani" c="This symbol is the Sassani phone number that you meditate on before you sleep while thinking of the Orion system so hopefully you will dream about them i.e meet them in the astral dimension" >}}
 
@@ -18,9 +18,7 @@ They are a hybrid of human and Gray DNA created by the Grays (future humans). Th
 <!-- Even the Pleiadians look up to the Sassani civilization as being exceptionally spiritually-advanced*. -->
 
 {{< d t="Superphysics Note" >}}
-Superphysics is based on David Hume's maxim that **mentality creates reality**. This is how the Sassani maxims, such as 'believing is seeing' caught our attention. 
-
-(We primarily use Sassani information for 'technology-checking' to see whether our hypothesis on Cartesian mechanics will match the technology of the Sassani. Prior to this, we mainly checked whether our proposed [moneyless system](https://www.pantrypoints.com) would match their skills-based synchronicity economic system which matches those who have skills to those who need those skills in real-time.)
+Superphysics is based on David Hume's maxim that **mentality creates reality**. This is how the Sassani maxims, such as 'believing is seeing' caught our attention. We primarily use Sassani information for 'technology-checking' to see whether our hypothesis on Descartes' mechanics will match the technology of the Sassani. This is both Descartes and Sassani Physics give huge importance to **spinning vortices**. Prior to this, we mainly checked whether our proposed [moneyless system](https://www.pantrypoints.com) would match their skills-based synchronicity economic system which matches those who have skills to those who need those skills in real-time.)
 
 However, no one seems to be keen enough to notice that **their principles are designed for 4th and 5th density beings and not 3rd density ones like humans**.
 
@@ -40,16 +38,17 @@ This is because low density minds easily get confused by high density ideas:
 
 **Bashar:** Confusion to us is not negative.
 
+---
 
-Instead of diving in suddenly into Sassani teachings, it would be better if humans *generally* observed their principles in order to maximize practical human excitement, as opposed to  out-of-this-world excitement. It would be like upgrading a Nokia 3310 to play multiplayer Snake in full color -- it's less exciting that Call of Duty, but more exciting than single player Snake. This is why Bashar emphasizes to **make sure your beliefs can support you** as you chase your dreams.
+Instead of diving in suddenly into Sassani teachings, it would be better if humans *generally* observed their principles in order to maximize practical human excitement, as opposed to  out-of-this-world excitement. It would be like upgrading a Nokia 3310 to play multiplayer Snake in full color -- it's less exciting that Call of Duty, but more exciting than single player Snake. This is why Bashar emphasizes to **make sure your beliefs can support you** as you chase your dreams. Evolution has a **natural rate**. Do not be tempted to take shortcuts or bite more than you can chew.
 
-We suggest that only those who can "do a Buddha" -- those who can willingly reject wealth, pleasures, fame, comfort in order to embrace the unknown -- should really go into Bashar's method. If you are not as strong-minded or determined as Buddha, then just grab what ideas resonate with you, not the whole 4th density system. 
+We suggest that only those who can "do a Buddha" -- those who can willingly reject wealth, pleasures, fame, comfort in order to embrace the unknown -- should really go into the Sassani system. If you are not as strong-minded or determined as Buddha, then just grab what ideas resonate with you, not the whole 4th density system. 
 
 The critical ingredient that makes the Sassani principles fail in the human frame is **the hardened negative ego that is in all humans**. 
 
 Their solution to this are the mantras: 'so what?' and 'let it go' and 'relax your definitions'.
 
-Humans can upgrade themselves to Sassani by evolving genetically with each generation while following such general principles.
+Humans can upgrade themselves to Sassani by evolving genetically with each generation while following such general principles. We assume that this is what hybrids are for. 
 {{< /d >}}
 
 
@@ -279,7 +278,9 @@ This is easily seen in Bashar commenting on how death experiences are "exciting"
 
 **Bashar:**  How **exciting**!
 
-Of course, "exciting" is a totally wrong word since no one is ever excited to drown. But drowning is a **natural** event or feeling, which matches the word dharma or nature i.e. it is natural to drown. 
+---
+
+Of course, "exciting" is a totally wrong word since no one is ever excited to drown. Instead, they are shocked and horrified when drowning. But drowning is a **natural** event or feeling, which matches the word dharma or nature i.e. it is natural to drown. 
 
 This changes the meaning:
 
