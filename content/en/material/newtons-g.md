@@ -84,17 +84,24 @@ The physical air is made up of the 3rd Element. Its particles are less suited fo
 {{< /q >}}
 
 
-This constant motion is now proven in the gluon field being in constant flux.
+This constant motion is now proven in the gluon field being in constant flux. 
 
 
 {{< i s="/graphics/physics/flux.gif" a="Flux" c="The inconstancy of G is caused by the 3rd Element always moving, as the gluon field flux which carries over to atomic space" >}}
 
 
-This constant flux changes the atomic space which then causes the 2nd Element, called now as the aether, to vary. 
+This constant flux changes the atomic space. This then causes the 2nd Element, called now as the aether as the vacuum of empty space, to vary. 
 
-**The variation of the aether creates a varying `G`.** 
+ <!-- (which is filled as a plenum and not really empty_,  -->
+
+**The variation of the aether creates a varying `G`** which is really from the displacement done by atomic space (matter particles) on the vacuum of space (space particles).
+
+In other words:
+- The atomic space and gluon field is inherently unstable -- this leads to the probabilistic nature of particles
+- The emtpy space reacts to this instability by going out of the atom in non-constant ways.
 
 
+<!-- 
 ## Proves Bob Lazar's Anti-Gravity via Gravity A Waves
 
 The inconsitency of G is proof that that atomic space changes. 
@@ -107,3 +114,4 @@ This dark energy field can isolate the body and make it levitate by ignoring the
 
 In other words, the inconstancy of G means that anti gravity is possible. 
 
+ -->

@@ -6,6 +6,7 @@ weight: 6
 image: /photos/meta/adam.jpg
 description: "The current prevailing belief among humans is that material phenomena is the cause of mental phenomena"
 icon: "Juan"
+toc: false
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
