@@ -61,14 +61,16 @@ Instead of theorizing the entire spacetime (which is impractical anyway), the be
 
 This would greatly simplify or minify the maths needed to plot the phenomenon in spacetime. 
 
-This replaced differential geometry with Euclidean geometry and data science. 
+This replaces differential geometry with Euclidean geometry and data science (which we call Francis Bacon Tables which plot the changes in perception, with each one being a slice of reality). 
 
-Riemann geometry is merely a mix of the properties of Euclidean geometry focusing on effects instead of causes. 
+Riemann geometry is merely a mix of the properties of Euclidean geometry focusing on **effects** instead of causes. 
 
 
 ## Supermath Uses Spin
 
 Instead of effect-based geometry, we use spin of the bodies to plot their movement in the aether ocean.
+
+In the aethereal or non-physical domains, this spin represents the spin of minds and ideas. This is because space and time are no longer rigid or linear or sequential in the non-physical domains, called 5th density upwards. 
 
 
 

@@ -34,14 +34,14 @@ Physics | Gravity comes from Matter | No anti gravity, teleportation, free energ
 Western Medicine | Treating Symptom or Effect instead of Cause | Diseases recur and side effects created
 Sociology | Differences in Culture, Language | War, Nationalism, Terrorism, Disputes
 Evolution Theory | Survival of the Fittest | Nazism, Racism, Exploitation of the Weak
-Psychology | Consciousness Comes From Brain | Ineffective Treatments that cause side effects
+Psychology | Consciousness Comes From Brain | Medicines like opiods and amphetamines that cause harmful side effects
 
 
 ## The Sophistries in the Sciences
 
-The Indians, through the Vedas, were the first ones to discover the illusion of reality -- the physical universe was itself false. This led them to have a culture of renouncing the false world and chasing the Truth.
+The Indians, through the Vedas, were the first ones to discover the illusion of reality -- the physical universe was itself false. This led them to have a culture of renouncing the false world and chasing the Truth. We call this the 4th density mentality.
 
-However, there are many who want to favor the illusion. Such people were called Sophists in ancient Greece.
+However, there are many who want to favor the illusion. Such people were called Sophists in ancient Greece. We call this the 3rd density mentality.
 
 {{< q a="Foreigner" c="The Sophist" >}}
 The Sophist has a sort of conjectural or apparent knowledge, which is not the truth.
@@ -71,7 +71,7 @@ Money in common language frequently signifies wealth. This **ambiguity of expres
 
 Nowadays, we use the word 'scam' instead of sophistry. 
 
-In the case above, the scam is the financial sector equating money with wealth. They use this to push governments to get more money-loans under the pretence that it will provide employment and therefore wealth to the people, when it really just provides employment and wealth to the financial system.  
+In the case above, the scam is the financial sector equating money with wealth. They use this to push governments to get more money-loans under the pretence that it will provide employment and therefore wealth to the people, **when it really just provides employment and wealth to those working in the financial system**.  
 
 
 Unlike the Dunning-Kruger effect which is just a miscalculation of one's abilities, Sophists have mastery and push their scam with the ill intent of self-gain. 
@@ -79,8 +79,8 @@ Unlike the Dunning-Kruger effect which is just a miscalculation of one's abiliti
 They therefore have 3 components:
 
 1. Desire of self-gain
-2. Exploit the limitation of others
-3. Use ambiguity as cover
+2. Exploiting the limitation of others
+3. Using ambiguity as cover
 
 These 3 are all part of the Negative Force or Yin in Taoism or Shakti in Hinduism.
 
@@ -93,7 +93,7 @@ The scammer, Sam Bankman-Fried, then exploits this by claiming to be an expert. 
 
 But since his scam goes against Nature, it will eventually be discovered, and karma will be imposed. 
 
-Here, the time factor exposed the FTX scam, just as public debt and too-big-to-fail finance implodes after some time. This is because the time Element is right below the aether. 
+Here, the time factor exposed the FTX scam, just as public debt and too-big-to-fail finance implodes after some time. This is because the time Element is right below the pure aether. 
 
 
 <!-- ### Newton is a Slight Mistake, Not a Scam
@@ -135,10 +135,12 @@ So the Einstein scam has 2 parts:
 2. The Constant Speed of Light -- this uses the constancy as a measuring rod to glue the time of separate events
 
 
-We will talk only about Simultaneity here. The constant speed of light fallacy is discussed in Superluminal motion.
+We will talk only about the Fallacy-of-Simultaneity-Via-Light here. The Fallacy-of-Constant-Speed-of-light will be discussed in [Superluminal motion](/material/fallacies/superluminal/).
+- The Fallacy-of-Constant-Speed-of-light is from Displacement
+- The Fallacy-of-Simultaneity-Via-Light is from Spin
 
 
-## The Fallacy of the Simultaneity of Time
+## The Fallacy of the Simultaneity of Time via Light
 
 This uses physical events to measure the passage of time in the mind, then **objectively comparing** them to each other.
 
@@ -147,11 +149,11 @@ An observer at point A with a watch can determine the time values of events near
 {{< /q >}}
 
 
-In reality, time is subjective and not objective. What Physics is really measuring (mechanically or electromagnetically) is physical **CHANGE**. 
+In reality, time is **subjective** and not objective. What Physics is really measuring (mechanically or electromagnetically) is physical **CHANGE**. 
 
 The problem is change is qualitative and not quantitative, but Physics is all about quantities. And so to coerce qualitative change into taking a quantitive form, physicists convert "change" into "time" which is recorded in numbers or quantities.
 
-We explain why change is qualitative [here](/superphysics/principles/chapter-04/).
+We explain why change is qualitative [here](/superphysics/principles/material/part-2/chapter-08/section-02/unit-02).
 
 Physicists crudify mental aethereal time into physical versions of the lower layers. 
 
@@ -182,14 +184,12 @@ We have not a direct intuition of the equality of 2 intervals of time. The perso
 
 ### The Precision of Light
 
-Of the 5 Elements, the fire element, as electromagnetism, is the most accurate because fire element particles are small yet have consistent properties. This demand for accuracy is a sign of the Negative Force, which leads to ['microscope' thinking](/material/principles/chapter-01b).
+Of the 5 Elements, the fire element, as electromagnetism, is the most accurate because fire element particles are small yet have consistent properties. This demand for accuracy is a sign of the Negative Force, which leads to ['microscope' thinking](/superphysics/principles/part-01/chapter-04/section-01/).
 
 
 This makes Electromagnetism the ideal standard for the simultaneity or objectivity of subjective time. 
-
-This fallacy is why physicists say that light "experiences" no time, as if light were alive! 
-
-This is also why **Relativity works very well in measuring things** even if it throws away causation altogether. A stretched out light wave is far more precise and consistent than using a string of sand particles as a measure.
+- This fallacy is why physicists say that light "experiences" no time, as if light were alive! 
+- This is also why **Relativity works very well in measuring things** even if it throws away causation altogether. A stretched out light wave is far more precise and consistent than using a string of sand particles as a measure.
 
 {{< q a="Professor Dr. P. F. Linke" c="100 Authors Against Einstein" >}}
 In the building of a physics in this way, Relativity provides evidence of its feasibility. The task of research is the establishment of the truth. The only question is **whether this feasibility was achieved at the expense of the truth**. It is an open secret that thinking about the categorical foundations of Relativity actually leads to logical difficulties. 
@@ -256,7 +256,7 @@ The most accurate measure of time is aethereal **idea**, and not light.
 
 You can close your eyes and cover your ears and still be able to count mental time. 
 
-{{< i s="/photos/physics/time.jpg" a="True Time" c="Time is best experienced non-physically, as change" >}}
+{{< i s="/photos/physics/time.jpg" a="True Time" c="Time is best experienced non-physically, as the change in your ideas and feelings. This holds true even in the dream state" >}}
 
 
 The use of idea as a universal measure for time also solves the measurement problem in Quantum Mechanics.

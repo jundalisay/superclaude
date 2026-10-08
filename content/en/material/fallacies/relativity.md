@@ -17,7 +17,9 @@ Superphysics was created because of the defiencies in the materialist or limited
 
 Material Superphysics was created specifically to fix the deficiencies in the physical sciences such as Physics and Chemistry. 
 
-The biggest error in Physics is the Theory of Relativity of Einstein. This is similar to the Marginal Revolution error of Modern Economics that has caused so many problems in society. 
+The biggest error or scam in Physics is the **Theory of Relativity** of Einstein. This is similar to the **Marginal Revolution** error or scam of Modern Economics that has caused so many problems in society. 
+- The root cause of the Marginal Revolution scam is the selfishness in every person
+- The root cause of the Relativity scam is the physicality of every person
 
 Relativity has held back Physics since the 1900s by misdirecting research efforts towards uselessness, and was vehemently bashed by the genius Nikola Tesla.
 
@@ -73,8 +75,9 @@ We have not a direct intuition of the equality of 2 intervals of time. The perso
 
 
 But Einstein duped everyone and locked space and time to light anyway. This led to `E=mc^2` where `m` is really electromagnetic potential in active particles and not Newtonian mass in static inertial ones.
+- Instead of highlighting frequency as done by `E = hf`, `E=mc^2` emphasizess matter. 
 
-This is why it works for uranium, but not for iron. This led to nuclear fission at the expense of nuclear fusion which requires anti-gravity which is impossible under Einstein, but possible under Poincare.
+This is why it works for uranium which has more electromagnetic potential, but not for iron. This led to nuclear fission at the expense of nuclear fusion which requires anti-gravity which is impossible under Einstein, but possible under Poincare.
 
 
 ## Poincare's Law of Relativity Matches Quantum Mechanics and James Webb Space Telescope
