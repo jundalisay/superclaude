@@ -25,14 +25,14 @@ This is similar to how cavemen measure time by looking at the sun's position in 
 
 Einstein would be like a caveman who invents the sundial to make the observations more accurate. This sundial can then be tested on moonlight to show how genius and accurate sundials are (compared to looking at the sky), which is really based on measuring shadows, something that previous cavemen didn't think of.
 
-Sundials do not explain why sun goes around the sky just as Relativity does not explain why light is limited to 300,000 kilometers per second*. 
+Sundials do not explain why the sun goes around the sky just as Relativity does not explain why light is limited to 300,000 kilometers per second*. 
 
 {{< n n="This was the original gist of the previous version of this article before we overhauled it into something more useful" >}}
 
 {{< i s="/photos/objects/clock.jpg" a="Sundial" c="The invention of the metric tensor is like the invention of notches in a sundial" >}}
 
 
-If Relativity really explained gravity then there would be anti-gravity by now.
+If Relativity really explained gravity, then there would be anti-gravity technology by now.
 
 <!-- In Berekely's Physics, the mechanism of gravity is the aether or spirit (feelings). Materialists like Einstein negate feelin
 
@@ -50,27 +50,31 @@ This is proven by Veritasium's experiment which showed that energy was transmitt
 
 {{< youtube bHIhgxav9LY >}}
 
-We explain that Tesla's system would work because empty space, called the 2nd Element in Cartesian Physics, is full of potential energy that it then gets from the aetherspace which is a subtle kind of 2nd Element that connects to the aether or 5th Element. 
+We explain that Tesla's system would work because empty space, called the crude aether or the 2nd Element in Cartesian Physics, is full of potential energy since it is closest to the 5th Element or pure aether which is the substance of the abstract mind. 
 
-The energy of space is now called virtual photons, as it facilitates electromagnetism.
+<!-- that it then gets from the aetherspace which is a subtle kind of 2nd Element that connects to the aether or 5th Element.  -->
+
+- The crude aether is now called vacuum or empty space. 
+- The energy of empty space is now called vacuum energy.
+
+This vacuume energy is translated by virtual photons which then facilitates electromagnetism by drilling or corkscrewing into electrons which then makes those electrons spin.
 
 The big problem is that Eintein's Theory only accepts visible energy as light or matter. These then move independently sequentially across empty space. 
 
 This is visualized by the metric tensor which is the core component of Relativity. Accordingly, it is also the one that we bash the most, unlike Tesla who instead bashes the speed limit.
 
-
 This linear thinking (sequential spacetime), as opposed to instant-thinking (arbitrary and independent spacetime), is what Tesla (and Superphysics) is bashing. 
 
 
-## The Aether is Superior to Electromagnetism
+## The Crude Aether is Superior to Electromagnetism
 
-In Cartesian Physics, and in Nature, the aether as the 5th Element is superior to Electromagnetism as the 1st Element (which we call the Radiant Layer).
+In Cartesian Physics, and in Nature, the crude aether as the 2nd Element is superior to Electromagnetism as the 1st Element (which we call the Radiant Layer).
 
-The aether is the substance of ideas and feelings which are non linear and totally arbitrary. This is why you can have totally different ideas and feelings one second after another. 
+The pure version of this crude aether, as the 5th Element, is the substance of ideas and feelings which are non linear and totally arbitrary. This is why you can have totally different ideas and feelings one second after another. 
 
-You can discard this liberated property and force yourself into rigid ideas and constant feelings like a machine or computer with hard-wired memory. This is what dogma does -- North Korea, Islam, and Dark Ages Europe are good at this.
+You can discard this liberated property and force yourself into rigid ideas and constant feelings just like a machine or computer with hard-wired memory. This is what dogma does -- North Korea, Islam, and Dark Ages Europe are good at this.
 
-The aether was called substance, which Tesla agrees with: 
+The pure aether was called substance, which Tesla agrees with: 
 
 {{< q a="Nikola Tesla" c="The Problem of Increasing Human Energy" >}}
 Man can increase or decrease his velocity of movement by the mysterious power he possesses by appropriating more or less energy from other substance, and turning it into motive energy. 

@@ -84,13 +84,13 @@ weight: 2
 | 03/12/1986 | [What You Are](/research/other/alien/essassani/transmissions/1986/1986-03-12/) | You exist on many different planes of reality simultaneously |
 | 03/19/1986 | [Infinity](/research/other/alien/essassani/transmissions/1986/1986-03-19/) | Attraction |
 | 03/20/1986 | [The Oversoul Perspective](/research/other/alien/essassani/transmissions/1986/1986-03-20/) |  |
-| 03/26/1986 | [Interaction](/research/other/alien/essassani/transmissions/1986/1986-03-26/) |  |
+| 03/26/1986 | [Interaction](/research/other/alien/essassani/transmissions/1986/1986-03-26/) | Detecting Fluctuations |
 | 04/02/1986 | [Conviction](/research/other/alien/essassani/transmissions/1986/1986-04-02/) |  |
-| 04/09/1986 | [Equality](/research/other/alien/essassani/transmissions/1986/1986-04-09/) |  |
-| 04/14/1986 | [Darryl's Dream](/research/other/alien/essassani/transmissions/1986/1986-04-14/) |  |
-| 04/16/1986 | [Showers of Synchronicity](/research/other/alien/essassani/transmissions/1986/1986-04-16/) |  |
-| 04/19/1986 | [Accepting Yourself](/research/other/alien/essassani/transmissions/1986/1986-04-19/) |  |
-| 04/23/1986 | [Frames of Reference](/research/other/alien/essassani/transmissions/1986/1986-04-23/) |  |
+| 04/09/1986 | [Equality](/research/other/alien/essassani/transmissions/1986/1986-04-09/) | Social Engineering |
+| 04/14/1986 | [Darryl's Dream](/research/other/alien/essassani/transmissions/1986/1986-04-14/) | Ideas coming up |
+| 04/16/1986 | [Showers of Synchronicity](/research/other/alien/essassani/transmissions/1986/1986-04-16/) | Writing to Governments |
+| 04/19/1986 | [Accepting Yourself](/research/other/alien/essassani/transmissions/1986/1986-04-19/) | Transformation |
+| 04/23/1986 | [Frames of Reference](/research/other/alien/essassani/transmissions/1986/1986-04-23/) | Separation  |
 | 04/30/1986 | [Imagine That](/research/other/alien/essassani/transmissions/1986/1986-04-30/) |  |
 | 05/07/1986 | [Field Trip](/research/other/alien/essassani/transmissions/1986/1986-05-07/) |  |
 | 05/08/1986 | [Abundance](/research/other/alien/essassani/transmissions/1986/1986-05-08/) |  |
@@ -183,8 +183,8 @@ weight: 2
 | 07/30/1987 | [Karmic Template](/research/other/alien/essassani/transmissions/1987/1987-07-30/) |  |
 | 08/04/1987 | [Bashar in Sacramento #1](/research/other/alien/essassani/transmissions/1987/1987-08-04/) |  |
 | 08/06/1987 | [Intuition & Intellect](/research/other/alien/essassani/transmissions/1987/1987-08-06/) |  |
-| 08/13/1987 | [The Harmonic Wave](/research/other/alien/essassani/transmissions/1987/1987-08-13/) |  |
-| 08/19/1987 | [New Metaphysics](/research/other/alien/essassani/transmissions/1987/1987-08-19/) |  |
+| 08/13/1987 | [The Harmonic Wave](/research/other/alien/essassani/transmissions/1987/1987-08-13/) | 40 year cycles, mandalas |
+| 08/19/1987 | [New Metaphysics](/research/other/alien/essassani/transmissions/1987/1987-08-19/) | Personality, God, Religion |
 | 08/27/1987 | [Ignition](/research/other/alien/essassani/transmissions/1987/1987-08-27/) |  |
 | 09/03/1987 | [Weaning](/research/other/alien/essassani/transmissions/1987/1987-09-03/) |  |
 | 09/10/1987 | [What is the Most Important Thing of All](/research/other/alien/essassani/transmissions/1987/1987-09-10/) |  |
@@ -247,7 +247,7 @@ weight: 2
 | 08/29/1988 | [Perseverance](/research/other/alien/essassani/transmissions/1988/1988-08-29/) |  |
 | 09/06/1988 | [The Limbo State](/research/other/alien/essassani/transmissions/1988/1988-09-06/) |  |
 | 10/04/1988 | [Summation Part I](/research/other/alien/essassani/transmissions/1988/1988-10-04/) |  |
-| 11/01/1988 | [Summation Part II (God Seeds)](/research/other/alien/essassani/transmissions/1988/1988-11-01/) |  |
+| 11/01/1988 | [Summation Part II (God Seeds)](/research/other/alien/essassani/transmissions/1988/1988-11-01/) | Nov 1 as New Year |
 | 12/05/1988 | [World Religion Class](/research/other/alien/essassani/transmissions/1988/1988-12-05/) |  |
 | 12/06/1988 | [Summation Part III](/research/other/alien/essassani/transmissions/1988/1988-12-06/) |  |
 | 02/20/1989 | [Human/Alien Connection (L.A. EXPO)](/research/other/alien/essassani/transmissions/1989/1989-02-20/) |  |

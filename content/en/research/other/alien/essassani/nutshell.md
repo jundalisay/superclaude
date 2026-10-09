@@ -99,6 +99,9 @@ But if you stay positive, then you might get an idea of which company to apply t
 Being positive and unattached in Hinduism is known as "renouncing the fruits of one's actions or karma". 
 
 
+Note that a very different formula was first given by Bashar on May 1990 as the 1-3-5 No Risk Formula. But it didn't seem to get traction. And so by December 1997, Bashar gives the current formula. 
+
+
 
 ## Historical Sassani and Other Sassani 
 

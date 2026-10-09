@@ -1,7 +1,7 @@
 ---
 heading: Section 3
-title: "THE INFLUENCING MOTIVES OF THE WILL"
-description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
+title: "The Influencing Motives Of The Will"
+description: "This is the Simplified version of the Treatise of Human Nature by Hume"
 c: "steelblue"
 weight: 16
 writer:
