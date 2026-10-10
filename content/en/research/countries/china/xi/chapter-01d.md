@@ -15,12 +15,12 @@ icon: "China"
 The connotation of the new era of this dimension, focusing on the essential requirements of
 socialism, based on the direction of struggle, makes plans for the future life of the people, clarifies
 the value orientation of the new era, and highlights the people's nature in the new era.
+
 Socialism is the cause of happiness for the vast majority of people. 
 
-To build socialism, the
-fundamental thing is to liberate the productive forces, develop the productive forces, eliminate
-exploitation, eliminate polarization, and ultimately achieve common prosperity. Since the 18th
-National Congress of the CCP, Comrade Xi Jinping has repeatedly stressed that we must always take the realization, safeguarding and development of the fundamental interests
+To build socialism, the fundamental thing is to liberate the productive forces, develop the productive forces, eliminate exploitation, eliminate polarization, and ultimately achieve common prosperity. 
+
+Since the 18th National Congress of the CCP, Comrade Xi Jinping has repeatedly stressed that we must always take the realization, safeguarding and development of the fundamental interests
 of the broadest masses of the people as the starting point and foothold of all work, and have stressed
 on many occasions: 
 

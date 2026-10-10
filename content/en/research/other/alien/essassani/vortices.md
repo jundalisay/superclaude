@@ -27,13 +27,16 @@ Bring an electromagnetic detector in that area when you pass between large rock 
 
 Sedona
 
-Mt. Sashta -- Crown Chakra
+Mount Sashta -- Crown Chakra (+ Mount Fuji)
 
-Hawaii -- Heart Chakra
-
-Mt. Fuji --
-
-
+Hawaii -- Heart Chakra (+ Philippines)
 
 The mountains have an invisible upside-down mountain on top that acts like a vortex. 
+
+Shasta, Fuji, and Hawaii is the triangle that:
+- encompasses the entire energy of the Pacific Basin
+- represents the strong reemergence of Lemurian energy
+
+
+
 

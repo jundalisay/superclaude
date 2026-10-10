@@ -6,7 +6,7 @@ image: "/covers/essassani.jpg"
 # date: 1987-01-01
 # icon: Bashar
 showdate: true
-weight: 2
+weight: 1
 ---
 
 
@@ -81,11 +81,11 @@ weight: 2
 | 02/26/1986 | [Shedding Some Light](/research/other/alien/essassani/transmissions/1986/1986-02-26/) | Conscious, Subconscious, Unconscious |
 | 03/05/1986 | [Reflections](/research/other/alien/essassani/transmissions/1986/1986-03-05/) | 4th Density  |
 | 03/10/1986 | [Believing in Beliefs](/research/other/alien/essassani/transmissions/1986/1986-03-10/) | Creating Problems |
-| 03/12/1986 | [What You Are](/research/other/alien/essassani/transmissions/1986/1986-03-12/) | You exist on many different planes of reality simultaneously |
+| 03/12/1986 | [What You Are](/research/other/alien/essassani/transmissions/1986/1986-03-12/) | Nature of Soul |
 | 03/19/1986 | [Infinity](/research/other/alien/essassani/transmissions/1986/1986-03-19/) | Attraction |
 | 03/20/1986 | [The Oversoul Perspective](/research/other/alien/essassani/transmissions/1986/1986-03-20/) |  |
 | 03/26/1986 | [Interaction](/research/other/alien/essassani/transmissions/1986/1986-03-26/) | Detecting Fluctuations |
-| 04/02/1986 | [Conviction](/research/other/alien/essassani/transmissions/1986/1986-04-02/) |  |
+| 04/02/1986 | [Conviction](/research/other/alien/essassani/transmissions/1986/1986-04-02/) | Process |
 | 04/09/1986 | [Equality](/research/other/alien/essassani/transmissions/1986/1986-04-09/) | Social Engineering |
 | 04/14/1986 | [Darryl's Dream](/research/other/alien/essassani/transmissions/1986/1986-04-14/) | Ideas coming up |
 | 04/16/1986 | [Showers of Synchronicity](/research/other/alien/essassani/transmissions/1986/1986-04-16/) | Writing to Governments |
@@ -100,12 +100,12 @@ weight: 2
 | 06/04/1986 | [Connections](/research/other/alien/essassani/transmissions/1986/1986-06-04/) |  |
 | 06/05/1986 | [Your Relationship to Your Soul](/research/other/alien/essassani/transmissions/1986/1986-06-05/) |  |
 | 06/11/1986 | [Ancient Dreams](/research/other/alien/essassani/transmissions/1986/1986-06-11/) |  |
-| 06/18/1986 | [Synchronicity](/research/other/alien/essassani/transmissions/1986/1986-06-18/) |  |
-| 06/25/1986 | [Under Control](/research/other/alien/essassani/transmissions/1986/1986-06-25/) |  |
+| 06/18/1986 | [Synchronicity](/research/other/alien/essassani/transmissions/1986/1986-06-18/) |  Synchronicity, Integrity, Everything Has a Reason |
+| 06/25/1986 | [Under Control](/research/other/alien/essassani/transmissions/1986/1986-06-25/) | Synchronicity |
 | 06/28/1986 | [Crystal Awareness](/research/other/alien/essassani/transmissions/1986/1986-06-28/) |  |
-| 07/02/1986 | [Relationships](/research/other/alien/essassani/transmissions/1986/1986-07-02/) |  |
-| 07/08/1986 | [Habits](/research/other/alien/essassani/transmissions/1986/1986-07-08/) |  |
-| 07/09/1986 | [Energy Gate](/research/other/alien/essassani/transmissions/1986/1986-07-09/) |  |
+| 07/02/1986 | [Relationships](/research/other/alien/essassani/transmissions/1986/1986-07-02/) | Existence |
+| 07/08/1986 | [Habits](/research/other/alien/essassani/transmissions/1986/1986-07-08/) | Habits  |
+| 07/09/1986 | [Energy Gate](/research/other/alien/essassani/transmissions/1986/1986-07-09/) | Imagination and Reality |
 | 07/15/1986 | [Redefining Your Symbology](/research/other/alien/essassani/transmissions/1986/1986-07-15/) |  |
 | 07/16/1986 | [Perspectives](/research/other/alien/essassani/transmissions/1986/1986-07-16/) |  |
 | 07/19/1986 | [Primary Knowingness](/research/other/alien/essassani/transmissions/1986/1986-07-19/) |  |
@@ -118,7 +118,7 @@ weight: 2
 | 09/03/1986 | [Designer Dreams](/research/other/alien/essassani/transmissions/1986/1986-09-03/) |  |
 | 09/10/1986 | [Ecstatic Transformations](/research/other/alien/essassani/transmissions/1986/1986-09-10/) |  |
 | 09/17/1986 | [Happy Anniversary](/research/other/alien/essassani/transmissions/1986/1986-09-17/) |  |
-| 09/24/1986 | [Cruising through Time](/research/other/alien/essassani/transmissions/1986/1986-09-24/) |  |
+| 09/24/1986 | [Cruising through Time](/research/other/alien/essassani/transmissions/1986/1986-09-24/) | Good Evil as value judgments |
 | 09/25/1986 | [Las Vegas #1](/research/other/alien/essassani/transmissions/1986/1986-09-25/) |  |
 | 09/29/1986 | [Right or Wrong](/research/other/alien/essassani/transmissions/1986/1986-09-29/) |  |
 | 10/01/1986 | [Unfolding](/research/other/alien/essassani/transmissions/1986/1986-10-01/) |  |
