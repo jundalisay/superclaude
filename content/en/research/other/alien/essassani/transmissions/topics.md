@@ -107,8 +107,8 @@ weight: 1
 | 07/08/1986 | [Habits](/research/other/alien/essassani/transmissions/1986/1986-07-08/) | Habits  |
 | 07/09/1986 | [Energy Gate](/research/other/alien/essassani/transmissions/1986/1986-07-09/) | Imagination and Reality |
 | 07/15/1986 | [Redefining Your Symbology](/research/other/alien/essassani/transmissions/1986/1986-07-15/) |  |
-| 07/16/1986 | [Perspectives](/research/other/alien/essassani/transmissions/1986/1986-07-16/) |  |
-| 07/19/1986 | [Primary Knowingness](/research/other/alien/essassani/transmissions/1986/1986-07-19/) |  |
+| 07/16/1986 | [Perspectives](/research/other/alien/essassani/transmissions/1986/1986-07-16/) | All matter is frequency |
+| 07/19/1986 | [Primary Knowingness](/research/other/alien/essassani/transmissions/1986/1986-07-19/) | Non-Physical Reality |
 | 07/23/1986 | [Simplicity Itself](/research/other/alien/essassani/transmissions/1986/1986-07-23/) |  |
 | 07/30/1986 | [Willingness](/research/other/alien/essassani/transmissions/1986/1986-07-30/) |  |
 | 08/06/1986 | [Being In Touch](/research/other/alien/essassani/transmissions/1986/1986-08-06/) |  |
@@ -118,11 +118,11 @@ weight: 1
 | 09/03/1986 | [Designer Dreams](/research/other/alien/essassani/transmissions/1986/1986-09-03/) |  |
 | 09/10/1986 | [Ecstatic Transformations](/research/other/alien/essassani/transmissions/1986/1986-09-10/) |  |
 | 09/17/1986 | [Happy Anniversary](/research/other/alien/essassani/transmissions/1986/1986-09-17/) |  |
-| 09/24/1986 | [Cruising through Time](/research/other/alien/essassani/transmissions/1986/1986-09-24/) | Good Evil as value judgments |
-| 09/25/1986 | [Las Vegas #1](/research/other/alien/essassani/transmissions/1986/1986-09-25/) |  |
+| 09/24/1986 | [Cruising through Time](/research/other/alien/essassani/transmissions/1986/1986-09-24/) | Positive and Negative Instead of Good vs Evil |
+| 09/25/1986 | [Las Vegas #1](/research/other/alien/essassani/transmissions/1986/1986-09-25/) | |
 | 09/29/1986 | [Right or Wrong](/research/other/alien/essassani/transmissions/1986/1986-09-29/) |  |
-| 10/01/1986 | [Unfolding](/research/other/alien/essassani/transmissions/1986/1986-10-01/) |  |
-| 10/08/1986 | [Night of Dreams](/research/other/alien/essassani/transmissions/1986/1986-10-08/) |  |
+| 10/01/1986 | [Unfolding](/research/other/alien/essassani/transmissions/1986/1986-10-01/) | Clarity on Positive and Negative |
+| 10/08/1986 | [Night of Dreams](/research/other/alien/essassani/transmissions/1986/1986-10-08/) | Reality is a Dream |
 | 10/15/1986 | [Dolphin Dreams](/research/other/alien/essassani/transmissions/1986/1986-10-15/) |  |
 | 10/22/1986 | [Orion Light](/research/other/alien/essassani/transmissions/1986/1986-10-22/) |  |
 | 10/29/1986 | [You are Spirit](/research/other/alien/essassani/transmissions/1986/1986-10-29/) |  |

@@ -184,27 +184,43 @@ In each entity the image will resonate slightly differently. Therefore, there is
 
 {{< r a="Don Elkins" >}}And finally, the Magician represents the conscious mind. Is this correct?{{< /r >}}
 
-{{< l a="Ra" >}}We ask the student to consider the concept of the unfed conscious mind, the mind without any resource but consciousness. Do not confuse the unfed conscious mind with that mass of complexities which you as students experience, as you have so many, many times dipped already into the processes of potentiation, catalyst, experience, and transformation.{{< /l >}}
+{{< l a="Ra" >}}
+Please consider the concept of the unfed conscious mind, the mind without any resource but consciousness. 
+
+Do not confuse the unfed conscious mind with that mass of complexities which you as students experience, as you have so many, many times dipped already into the processes of potentiation, catalyst, experience, and transformation.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Are these all of the components, then, of this first archetype?{{< /r >}}
 
-{{< l a="Ra" >}}These are all you, the student, sees. Thusly the complement is complete for you. Each student may see some other nuance. We, as we have said, did not offer these images with boundaries but only as guidelines intending to aid the adept and to establish the architecture of the deep, or archetypical, portion of the deep mind.{{< /l >}}
+{{< l a="Ra" >}}
+These are all you, the student, sees. Thusly the complement is complete for you. Each student may see some other nuance. We, as we have said, did not offer these images with boundaries but only as guidelines intending to aid the adept and to establish the architecture of the deep, or archetypical, portion of the deep mind.{{< /l >}}
 
 {{< r a="Don Elkins" >}}How is a knowledge of the facets of the archetypical mind used by the individual to accelerate his evolution?{{< /r >}}
 
 {{< l a="Ra" >}}We shall offer an example based upon this first explored archetype or concept complex. The conscious mind of the adept may be full to bursting of the most abstruse and unmanageable of ideas, so that further ideation becomes impossible and work in blue ray or indigo is blocked through over-activation. It is then that the adept would call upon the new mind, untouched and virgin, and dwell within the archetype of the new and unblemished mind without bias, without polarity, full of the magic of the Logos.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Then you are saying that, if I am correct in understanding what you have just said, that the conscious mind may be filled with an almost infinite number of concepts but there is a set of basic concepts which are what I would call important simply because they are the foundations for the evolution of consciousness, and will, if carefully applied, accelerate the evolution of consciousness, whereas the vast array of concepts, ideas, experiences that we meet in our daily lives may have little or no bearing upon the evolution of consciousness except in a very indirect way. In other words, what we are attempting to do here is find the great motivators of evolution and utilize them to move through our evolutionary track. Is this correct?{{< /r >}}
+{{< r a="Don Elkins" >}}
+So the conscious mind may be filled with an almost infinite number of concepts. But there is a set of basic concepts which are important simply because they:
+- are the foundations for the evolution of consciousness
+- will, if carefully applied, accelerate the evolution of consciousness
 
-{{< l a="Ra" >}}Not entirely. The archetypes are not the foundation for spiritual evolution but rather are the tool for grasping in an undistorted manner the nature of this evolution.{{< /l >}}
+Whereas the vast array of concepts, ideas, experiences in our daily lives may have little or no bearing upon the evolution of consciousness except in a very indirect way. 
 
-{{< r a="Don Elkins" >}}So for an individual who wishes to consciously augment his own evolution, an ability to recognize and utilize the archetypes would be beneficial in sorting out that which he wished to seek and that which he found— and that which would be found then as not as efficient a seeking tool. Would this be a good statement?{{< /r >}}
+In other words, what we are attempting to do here is find the great motivators of evolution and utilize them to move through our evolutionary track. Is this correct?{{< /r >}}
 
-{{< l a="Ra" >}}This is a fairly adequate statement. The term “efficient” might also fruitfully be replaced by the term “undistorted.” The archetypical mind, when penetrated lucidly, is a blueprint of the builded structure of all energy expenditures and all seeking, without distortion. This, as a resource within the deep mind, is of great potential aid to the adept.
+{{< l a="Ra" >}}
+Not entirely. The archetypes are not the foundation for spiritual evolution but rather are the tool for grasping in an undistorted manner the nature of this evolution.{{< /l >}}
 
-We would ask for one more query at this space/time as Carla is experiencing continuous surges of the distortion you call pain and we wish to take our leave of the working while Carla still possesses a sufficient amount of transferred energy to ease the transition to the waking state, if you would call it that.{{< /l >}}
+{{< r a="Don Elkins" >}}
+So for an individual who wishes to consciously augment his own evolution, an ability to recognize and utilize the archetypes would be beneficial in sorting out that which he wished to seek and that which he found— and that which would be found then as not as efficient a seeking tool. Would this be a good statement?{{< /r >}}
 
-{{< r a="Don Elkins" >}}Since we are at the end of the Matrix of the Mind I will just ask if there is anything we can do to improve the contact or make Carla more comfortable?{{< /r >}}
+{{< l a="Ra" >}}
+Yes. “Efficient” can be replaced by “undistorted.” The archetypical mind, when penetrated lucidly, is a blueprint of the builded structure of all energy expenditures and all seeking, without distortion. This, as a resource within the deep mind, is of great potential aid to the adept.
+
+<!-- We would ask for one more query at this space/time as Carla is experiencing continuous surges of the distortion you call pain and we wish to take our leave of the working while Carla still possesses a sufficient amount of transferred energy to ease the transition to the waking state. -->
+{{< /l >}}
+
+<!-- {{< r a="Don Elkins" >}}Since we are at the end of the Matrix of the Mind I will just ask if there is anything we can do to improve the contact or make Carla more comfortable?{{< /r >}}
 
 {{< l a="Ra" >}}Each is most conscientious. Carla might be somewhat more comfortable with the addition of the swirling of the waters with spine erect. All other things which can be performed for Carla’s benefit are most diligently done. We commend the continual fidelity of the group to the ideals of harmony and thanksgiving. This shall be your great protection. All is well, my friends. The appurtenances and alignments are excellent.{{< /l >}}
 
+ -->
