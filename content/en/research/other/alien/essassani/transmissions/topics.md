@@ -124,7 +124,7 @@ weight: 1
 | 10/01/1986 | [Unfolding](/research/other/alien/essassani/transmissions/1986/1986-10-01/) | Clarity on Positive and Negative |
 | 10/08/1986 | [Night of Dreams](/research/other/alien/essassani/transmissions/1986/1986-10-08/) | Reality is a Dream |
 | 10/15/1986 | [Dolphin Dreams](/research/other/alien/essassani/transmissions/1986/1986-10-15/) |  |
-| 10/22/1986 | [Orion Light](/research/other/alien/essassani/transmissions/1986/1986-10-22/) |  |
+| 10/22/1986 | [Orion Light](/research/other/alien/essassani/transmissions/1986/1986-10-22/) | Choice |
 | 10/29/1986 | [You are Spirit](/research/other/alien/essassani/transmissions/1986/1986-10-29/) |  |
 | 11/05/1986 | [Paradox](/research/other/alien/essassani/transmissions/1986/1986-11-05/) |  |
 | 11/10/1986 | [Simplicity](/research/other/alien/essassani/transmissions/1986/1986-11-10/) |  |
@@ -179,23 +179,23 @@ weight: 1
 | 07/16/1987 | [Revelation](/research/other/alien/essassani/transmissions/1987/1987-07-16/) |  |
 | 07/18/1987 | [Second Landing - How Bashar's Spaceship Flies](/research/other/alien/essassani/transmissions/1987/1987-07-18/) |  |
 | 07/23/1987 | [Feedback](/research/other/alien/essassani/transmissions/1987/1987-07-23/) |  |
-| 07/24/1987 | [Tools (La Jolla)](/research/other/alien/essassani/transmissions/1987/1987-07-24/) |  |
+| 07/24/1987 | [Tools](/research/other/alien/essassani/transmissions/1987/1987-07-24/) | Threshold of Believability |
 | 07/30/1987 | [Karmic Template](/research/other/alien/essassani/transmissions/1987/1987-07-30/) |  |
 | 08/04/1987 | [Bashar in Sacramento #1](/research/other/alien/essassani/transmissions/1987/1987-08-04/) |  |
 | 08/06/1987 | [Intuition & Intellect](/research/other/alien/essassani/transmissions/1987/1987-08-06/) |  |
 | 08/13/1987 | [The Harmonic Wave](/research/other/alien/essassani/transmissions/1987/1987-08-13/) | 40 year cycles, mandalas |
-| 08/19/1987 | [New Metaphysics](/research/other/alien/essassani/transmissions/1987/1987-08-19/) | Personality, God, Religion |
-| 08/27/1987 | [Ignition](/research/other/alien/essassani/transmissions/1987/1987-08-27/) |  |
+| 08/19/1987 | [**New Metaphysics**](/research/other/alien/essassani/transmissions/1987/1987-08-19/) | **Existence, Personality, Religion (God), Science** |
+| 08/27/1987 | [Ignition](/research/other/alien/essassani/transmissions/1987/1987-08-27/) | Clear Intention |
 | 09/03/1987 | [Weaning](/research/other/alien/essassani/transmissions/1987/1987-09-03/) |  |
 | 09/10/1987 | [What is the Most Important Thing of All](/research/other/alien/essassani/transmissions/1987/1987-09-10/) |  |
 | 09/15/1987 | [Inward Bound](/research/other/alien/essassani/transmissions/1987/1987-09-15/) |  |
 | 09/17/1987 | [A Cozy Little Chat](/research/other/alien/essassani/transmissions/1987/1987-09-17/) |  |
 | 09/22/1987 | [Las Vegas #4](/research/other/alien/essassani/transmissions/1987/1987-09-22/) |  |
 | 09/24/1987 | [Body & Soul](/research/other/alien/essassani/transmissions/1987/1987-09-24/) |  |
-| 09/26/1987 | [Images In San Mateo](/research/other/alien/essassani/transmissions/1987/1987-09-26/) |  |
+| 09/26/1987 | [Images In San Mateo](/research/other/alien/essassani/transmissions/1987/1987-09-26/) | Imagination |
 | 10/01/1987 | [Autumn](/research/other/alien/essassani/transmissions/1987/1987-10-01/) |  |
 | 10/03/1987 | [WLE EXPO](/research/other/alien/essassani/transmissions/1987/1987-10-03/) |  |
-| 10/04/1987 | [Mechanics of Metaphysics](/research/other/alien/essassani/transmissions/1987/1987-10-04/) |  |
+| 10/04/1987 | [Mechanics of Metaphysics](/research/other/alien/essassani/transmissions/1987/1987-10-04/) | Prism of Personality |
 | 10/08/1987 | [Consensus Reality](/research/other/alien/essassani/transmissions/1987/1987-10-08/) |  |
 | 10/15/1987 | [Nothing at All](/research/other/alien/essassani/transmissions/1987/1987-10-15/) |  |
 | 10/22/1987 | [The Sound](/research/other/alien/essassani/transmissions/1987/1987-10-22/) |  |
