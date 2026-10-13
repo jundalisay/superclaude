@@ -9,10 +9,11 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
+toc: false
 ---
 
 
-## Why We Still Use 60 and 24
+## Why Humans Still Use 60 and 24
 
 Before clocks, humans used the only two reliable cycles in nature: the **day** (sun) and the **month** (moon).
 

@@ -9,9 +9,8 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
+toc: false
 ---
-
-
 
 
 Ever since the French Revolution, there have been three branches of government:

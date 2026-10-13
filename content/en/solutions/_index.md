@@ -6,11 +6,18 @@ youtube: "0dXvYASaIx4"
 proofs:
   - url : "https://pantrypoints.com"
     img: "/photos/econ/barter.jpg"
-    title : "Social Superphysics: Moneyless System"
+    title : "Supereconomics: Moneyless System"
     sub : "We have used a moneyless system for our Pantrypoints startup since 2017 and is how we currently sustain Superphysics. It is based on aethereal trust instead of material money and is meant for the Crisis Years."
-    cat: "Social Superphysics"
+    cat: "Economic Superphysics"
     color: "seagreen"
-    
+
+  - url : "https://pantrypoints.com"
+    img: "/photos/econ/choice.jpg"
+    title : "Supereconomics: Pool Clearing"
+    sub : "We propose a version of EF Schumacher's Pool Clearing, as part of the Moneyless System, as a replacement to Bretton Woods."
+    cat: "Economic Superphysics"
+    color: "seagreen"
+
   # - url : "/superphysics/principles/chapter-07/"
   #   img : "/graphics/physics/qualimath.jpg"
   #   title : "Supermath and Qualimath"
@@ -46,6 +53,13 @@ proofs:
     cat: "Material Superphysics"
     color: "darkgoldenrod"
 
+  - url : "/material/principles/part-4/chapter-09/section-01/"
+    img : "/photos/physics/sparks.jpg"
+    title : "Cheaper Antimatter"
+    sub : "We propose using the pure aether on the interaetherspace to make antimatter cheaper"
+    cat: "Material Superphysics"
+    color: "darkgoldenrod"
+    
   - url : "/bio/solutions/capsule-food"
     img : "/photos/med/meds.jpg"
     title : "Capsule Food"
@@ -80,6 +94,13 @@ proofs:
     sub : "This allows money and moneyless transactions. We began this in 2016, as the first solution, in order to provide the resources for the rest of the proposals. (2016-current)"
     cat: "Social Superphysics"
     color: "seagreen"
+    
+  - url : "https://pantrypoints.com"
+    img: "https://www.pantrypoints.com/graphics/match.jpg"
+    title : "Matching System"
+    sub : "We match people based on ideology, economic productivity, needs, health, etc to create a unified jig-society"
+    cat: "Social Superphysics"
+    color: "seagreen"    
 
   - url : "/social/supersociology/principles/part-5/chapter-05"
     img : "/photos/social/pantry.jpg"
@@ -101,10 +122,17 @@ proofs:
     sub : "A democratic election system that is done annually (year 2100s)"
     cat: "Social Superphysics"
     color: "seagreen"
-    
+
+  - url : "/social/supersociology/principles/part-5/chapter-05/section-03/"
+    img : "/photos/econ/power.jpg"
+    title : "Resources Branch of Government"
+    sub : "The States that federated according to the Points-based economic system are then unified through the 'Ideal Commonwealth' plan of David Hume (year ?)"
+    cat: "Social Superphysics"
+    color: "seagreen"
+
   - url : "/research/hume/essays/part-2/16-the-ideal-system-of-government/"
-    img : "/covers/hume.jpg"
-    title : "Confederated World Government"
+    img : "/photos/medieval/hume.jpg"
+    title : "Earth Government"
     sub : "The States that federated according to the Points-based economic system are then unified through the 'Ideal Commonwealth' plan of David Hume (year ?)"
     cat: "Social Superphysics"
     color: "seagreen"

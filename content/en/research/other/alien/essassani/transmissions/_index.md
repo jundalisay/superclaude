@@ -1,6 +1,6 @@
 ---
 title:  "Transmissions"
-description: "We are removing useless questions like: Do I have hybrid children? and Can I ride your ship?"
+description: "We are compiling a list of Sassani (Essassani) transmissions from Bashar, Elan, Ryokah, etc to tag them into topics"
 image: "/covers/essassani.jpg"
 featured: true
 weight: 11

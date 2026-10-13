@@ -195,28 +195,28 @@ weight: 1
 | 09/26/1987 | [Images In San Mateo](/research/other/alien/essassani/transmissions/1987/1987-09-26/) | Imagination |
 | 10/01/1987 | [Autumn](/research/other/alien/essassani/transmissions/1987/1987-10-01/) |  |
 | 10/03/1987 | [WLE EXPO](/research/other/alien/essassani/transmissions/1987/1987-10-03/) |  |
-| 10/04/1987 | [Mechanics of Metaphysics](/research/other/alien/essassani/transmissions/1987/1987-10-04/) | Prism of Personality |
-| 10/08/1987 | [Consensus Reality](/research/other/alien/essassani/transmissions/1987/1987-10-08/) |  |
-| 10/15/1987 | [Nothing at All](/research/other/alien/essassani/transmissions/1987/1987-10-15/) |  |
-| 10/22/1987 | [The Sound](/research/other/alien/essassani/transmissions/1987/1987-10-22/) |  |
-| 10/27/1987 | [Validity (Las Vegas #5)](/research/other/alien/essassani/transmissions/1987/1987-10-27/) |  |
+| 10/04/1987 | [Mechanics of Metaphysics](/research/other/alien/essassani/transmissions/1987/1987-10-04/) | The Laws Of Psychic Functioning |
+| 10/08/1987 | [Consensus Reality](/research/other/alien/essassani/transmissions/1987/1987-10-08/) | Definitions and Shared Reality |
+| 10/15/1987 | [Nothing at All](/research/other/alien/essassani/transmissions/1987/1987-10-15/) | Existence vs Non Existence |
+| 10/22/1987 | [The Sound](/research/other/alien/essassani/transmissions/1987/1987-10-22/) | Importance of Relaxed Breathing |
+| 10/27/1987 | [Validity (Las Vegas #5)](/research/other/alien/essassani/transmissions/1987/1987-10-27/) | 2 Laws of Creation, Quasi-Physical Reality, Dimensions |
 | 10/29/1987 | [Ghost Story](/research/other/alien/essassani/transmissions/1987/1987-10-29/) |  |
-| 11/05/1987 | [Communication](/research/other/alien/essassani/transmissions/1987/1987-11-05/) |  |
-| 11/06/1987 | [Igniting the Imagination (Denver #1)](/research/other/alien/essassani/transmissions/1987/1987-11-06/) |  |
-| 11/12/1987 | [Foreign Relations](/research/other/alien/essassani/transmissions/1987/1987-11-12/) |  |
-| 11/14/1987 | [Convictions](/research/other/alien/essassani/transmissions/1987/1987-11-14/) |  |
-| 11/16/1987 | [Crystals & Electromagnetism](/research/other/alien/essassani/transmissions/1987/1987-11-16/) |  |
-| 11/17/1987 | [Theology Class (San Jose State)](/research/other/alien/essassani/transmissions/1987/1987-11-17/) |  |
-| 11/19/1987 | [Let's Get Sirius](/research/other/alien/essassani/transmissions/1987/1987-11-19/) |  |
+| 11/05/1987 | [Communication](/research/other/alien/essassani/transmissions/1987/1987-11-05/) |  Frequency Matching |
+| 11/06/1987 | [Igniting the Imagination (Denver #1)](/research/other/alien/essassani/transmissions/1987/1987-11-06/) | Methodology of Contact |
+| 11/12/1987 | [Foreign Relations](/research/other/alien/essassani/transmissions/1987/1987-11-12/) | Non-inference Directive |
+| 11/14/1987 | [Convictions](/research/other/alien/essassani/transmissions/1987/1987-11-14/) | Conviction |
+| 11/16/1987 | [Crystals & Electromagnetism](/research/other/alien/essassani/transmissions/1987/1987-11-16/) | 5 Categories of Crystal |
+| 11/17/1987 | [Theology Class (San Jose State)](/research/other/alien/essassani/transmissions/1987/1987-11-17/) | Infinity |
+| 11/19/1987 | [Let's Get Sirius](/research/other/alien/essassani/transmissions/1987/1987-11-19/) | Sirius Densities |
 | 11/24/1987 | [Synchronicity & Meaning (Las Vegas/6)](/research/other/alien/essassani/transmissions/1987/1987-11-24/) |  |
 | 12/01/1987 | [Our Motto (Sacramento #2)](/research/other/alien/essassani/transmissions/1987/1987-12-01/) |  |
 | 12/03/1987 | [The Peace Clock](/research/other/alien/essassani/transmissions/1987/1987-12-03/) |  |
-| 12/10/1987 | [Unfoldment of Persona](/research/other/alien/essassani/transmissions/1987/1987-12-10/) |  |
+| 12/10/1987 | [Unfoldment of Persona](/research/other/alien/essassani/transmissions/1987/1987-12-10/) | Personality |
 | 12/11/1987 | [Bay Area Avatar Group #1](/research/other/alien/essassani/transmissions/1987/1987-12-11/) |  |
-| 12/17/1987 | [The Neighborhood (Area E.T.'s)](/research/other/alien/essassani/transmissions/1987/1987-12-17/) |  |
+| 12/17/1987 | [The Neighborhood (Area E.T.'s)](/research/other/alien/essassani/transmissions/1987/1987-12-17/) | Solar System History |
 | 12/24/1987 | [Christmas Bells](/research/other/alien/essassani/transmissions/1987/1987-12-24/) |  |
 | 01/07/1988 | [Self Awareness](/research/other/alien/essassani/transmissions/1988/1988-01-07/) |  |
-| 01/09/1988 | [4th Meeting In San Mateo](/research/other/alien/essassani/transmissions/1988/1988-01-09/) |  |
+| 01/09/1988 | [4th Meeting In San Mateo](/research/other/alien/essassani/transmissions/1988/1988-01-09/) | ET Civilizations	 |
 | 01/14/1988 | [Grounding](/research/other/alien/essassani/transmissions/1988/1988-01-14/) |  |
 | 01/18/1988 | [Inspiration & Individual Impact (L.V.#7)](/research/other/alien/essassani/transmissions/1988/1988-01-18/) |  |
 | 01/19/1988 | [Points of View (L.V.#8)](/research/other/alien/essassani/transmissions/1988/1988-01-19/) |  |
@@ -249,7 +249,7 @@ weight: 1
 | 10/04/1988 | [Summation Part I](/research/other/alien/essassani/transmissions/1988/1988-10-04/) |  |
 | 11/01/1988 | [Summation Part II (God Seeds)](/research/other/alien/essassani/transmissions/1988/1988-11-01/) | Nov 1 as New Year |
 | 12/05/1988 | [World Religion Class](/research/other/alien/essassani/transmissions/1988/1988-12-05/) |  |
-| 12/06/1988 | [Summation Part III](/research/other/alien/essassani/transmissions/1988/1988-12-06/) |  |
+| 12/06/1988 | [Summation Part III](/research/other/alien/essassani/transmissions/1988/1988-12-06/) | Energy Transformation |
 | 02/20/1989 | [Human/Alien Connection (L.A. EXPO)](/research/other/alien/essassani/transmissions/1989/1989-02-20/) |  |
 | 02/20/1989 | [Tools For Success (L.A. EXPO Workshop)](/research/other/alien/essassani/transmissions/1989/1989-02-20/) |  |
 | 07/23/1989 | [Benefit for Margo](/research/other/alien/essassani/transmissions/1989/1989-07-23/) |  |
