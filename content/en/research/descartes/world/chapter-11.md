@@ -54,6 +54,8 @@ Nevertheless, the earth-aether in comets can move towards the exterior of the st
 - This will give them enough force to pass beyond the exterior upon their exit
 
 
+Thanks for watching! If you like this 4th density thinking then please like or subscribe. If it's too complicated then dislike it so we know how deep is the 3rd density infestation.
+
 The earth `EFGH` and its  water `1234` and air `5678` are a single mass.
 - Its water and air are composed of the less solid of the earth's parts.
 
