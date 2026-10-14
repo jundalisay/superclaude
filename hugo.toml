@@ -341,7 +341,7 @@ defaultContentLanguageInSubdir = false
   mainSections = ["research","superphysics","supermath","superlogic","material","bio","society","economics","cycles","spiritual","news"]
   # commentAction = "https://usebasin.com/f/ac926f8e1f10"
   commentAction = "https://pantrypoints.com/api/external"
-  
+  toc = false
   
   sections = [
     { key = "research", url = "/research" },
