@@ -9,6 +9,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
+toc: false
 ---
 
 
@@ -38,14 +39,19 @@ This Positive Force in humans has its origins from the genetic engineering done 
 
 The main area of operations of the Anunnaki was the Middle East because of the abundance of energy as oil. A nuclear reactor would probably be to complicated for the early humans to operate and therefore be unsustainable.
 
+
+{{< q a="Popol Vuh" >}}
+The first humans did not have fire. Only the people of Tohil had it. He was the god of the tribes which first created fire. It is not known how it was made, because it was already burning when Balam-Quitzé and Balam-Acab saw it.
+{{< /q >}}
+
 They knew that Negativity was so huge in homo erectus and so they tried to guide humans into the proper Positive behavior. This guidance forms the basis or the Judeo-Christian religions which was born in the Middle East. 
 
 {{< i s="/photos/medieval/anu.jpg" a="Anunnaki gods" c="The guidance of the Anunnaki led to religion" >}}
 
 
-The non-Middle Eastern areas were relatively free of Anunnaki influence and so were able to create their own religions and morals based on natural feelings. 
+The non-Middle Eastern areas had less Anunnaki influence. For example, though the god Indra is probably Anunnaki. Yet Indians worship Shiva, Krishna, Vishnu, Kali, Ganesha more. This allowed them to create their own religions and morals based on natural feelings. 
 
-Hinduism and Buddhism are examples of natural human religions which we classify as belief systems because of the lack of Anunnaki influence. Spiritual Superphysics is based on such belief systems.  
+Hinduism and Buddhism are examples of natural human religions which we classify as belief systems because of weaker Anunnaki influence. Spiritual Superphysics is based on such belief systems, which we cross-check with advanced non-Anunnaki, non-Pleiadean aliens like the Sirians, Venusians, and Sassani.
 
 
 ### The Goal of Morality: A Base for True Happiness
@@ -58,9 +64,11 @@ Unhappiness is experienced when an identity is kept away from its dharma. This s
 
 A moral or dharmic action is one that is in line with one's true nature or dharma. Its consequences are likewise Positive and within the dharma.
 
-It is difficult to explain or even discover one's true nature. This is why we defined morality as a quality that produces happiness for now and for as long as possible, for the self and for as many entities as possible.
+It is difficult to explain or even discover one's true nature. This is why we defined morality as a quality that produces positive feelings for now and for as long as possible, for the self and for as many entities as possible.
 
-The phrases "for as long as possible" and "for as many entities as possible" in our definition of morals show an enlarged mentality that tries to unite with all of the universe. This is a sign of the Positive Force. 
+Note how we use the word "positive feelings" instead of "happiness" to be more technical instead of vulgar. 
+
+The phrases "for as long as possible" and "for as many entities as possible" in our definition of morals show an enlarged mentality that tries to unite with all of the universe. This is also a sign of the Positive Force. 
 
 We can say that morality is the base from which spirituality can be launched. It is the job of spirituality to discover and reach one's dharma, just as it is the job of morality to create an environment for practicing spirituality in the physical domain.
 
@@ -79,7 +87,7 @@ To make this movement easier and have a better success rate, we have to explain 
 
 
 
-## The Positive and Negative Leads to Morality and Immorality 
+## The Positive and Negative, as Yang and Yin, Lead to Morality and Immorality 
 
 The rivalry between the Positive and Negative Forces as they generate Existence leads to duality, opposites, and good and bad. This is most pronounced in the physical domain which is negative by design. 
 

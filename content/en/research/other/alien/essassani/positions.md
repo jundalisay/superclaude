@@ -18,5 +18,6 @@ Crypto | AI (The true AI path)
 Chromium | Fluoride
 panspermia | primordial soup theory
 Telling positive stories | Telling ghost or horror stories
+Detox | Herbalife
 
 

@@ -257,7 +257,7 @@ weight: 1
 | 11/19/1989 | [The Agenda Whole](/research/other/alien/essassani/transmissions/1989/1989-11-19/) |  |
 | 05/28/1990 | [1-3-5 No Risk Formula](/research/other/alien/essassani/transmissions/1990/1990-05-28/) |  |
 | 10/06/1990 | [1-3-5-7 Tools of Change](/research/other/alien/essassani/transmissions/1990/1990-10-06/) |  |
-| 10/14/1990 | [1-3-5-7 Tools of Change](/research/other/alien/essassani/transmissions/1990/1990-10-14/) |  |
+| 10/14/1990 | [1-3-5-7 Tools of Change](/research/other/alien/essassani/transmissions/1990/1990-10-14/) | **Anima** |
 | 12/01/1990 | [Blueprint for Change (Message From Our Future)](/research/other/alien/essassani/transmissions/1990/1990-12-01/) |  |
 | 12/16/1990 | [Transformers](/research/other/alien/essassani/transmissions/1990/1990-12-16/) |  |
 | 01/01/1991 | [Lyssa Royal Dialogs with Bashar](/research/other/alien/essassani/transmissions/1991/1991-01-01/) | — |
@@ -273,13 +273,13 @@ weight: 1
 | 05/23/1991 | [The Three Absolutes II](/research/other/alien/essassani/transmissions/1991/1991-05-23/) | — |
 | 06/14/1991 | [Space Time Travel](/research/other/alien/essassani/transmissions/1991/1991-06-14/) | — |
 | 06/16/1991 | [The Stream](/research/other/alien/essassani/transmissions/1991/1991-06-16/) | 439/440 |
-| 06/20/1991 | [The Razor's Edge¶](/research/other/alien/essassani/transmissions/1991/1991-06-20/) | — |
+| 06/20/1991 | [The Razor's Edge¶](/research/other/alien/essassani/transmissions/1991/1991-06-20/) | The Association: Mind Matter Mirror |
 | 06/22/1991 | [Earth Changes (Private Session with Kent Babcock)](/research/other/alien/essassani/transmissions/1991/1991-06-22/) | — |
 | 06/29/1991 | [Razor's Edge](/research/other/alien/essassani/transmissions/1991/1991-06-29/) | — |
 | 06/30/1991 | [The Razor's Edge](/research/other/alien/essassani/transmissions/1991/1991-06-30/) | 441/442 |
 | 07/14/1991 | [Space Time / Travel](/research/other/alien/essassani/transmissions/1991/1991-07-14/) | 443/444 |
 | 07/28/1991 | [Be Ecstatic](/research/other/alien/essassani/transmissions/1991/1991-07-28/) | 445/446 |
-| 08/11/1991 | [Shattering Old Patterns Wksp](/research/other/alien/essassani/transmissions/1991/1991-08-11/) | 447/448 |
+| 08/11/1991 | [Shattering Old Patterns Wksp](/research/other/alien/essassani/transmissions/1991/1991-08-11/) | 5 Techniques, 40 Year Cycles |
 | 09/01/1991 | [Tipping the Scales](/research/other/alien/essassani/transmissions/1991/1991-09-01/) | 449/450 |
 | 09/15/1991 | [Take Action](/research/other/alien/essassani/transmissions/1991/1991-09-15/) | 451/452 |
 | 09/28/1991 | [Abundance Evolving Times](/research/other/alien/essassani/transmissions/1991/1991-09-28/) | — |

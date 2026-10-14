@@ -15,13 +15,15 @@ Dilla | plasticky, thin, malleable, flexible aliens that can stretch and change 
 Grays | Genetically modified future humans, from Zeta Reticuli
 Grays Zeta | Genetically modified by Anunnaki and planted into Zeta Reticuli, overseen by Mantis Beings
 Humans | Genetically manipulated homo erectus by the Anunnaki
-Lyrian | (Vega) Evolved from Anunnaki
+Lyrian | (Vega) The Anunnaki was an offshoot of Lyrans
 Mantis Beings | Manages the hybridization agenda
 Marbles | 10 feet spheres 12 tentacles that roll around in the inside-out universe
 Onatayu | DNA experts
+Orion | From Hoova in the star system of Mintaka, these controlled humans
 Plaedians | Direct offshoot Orion diaspora, also evolved from Anunnaki
 Precursors | Creators of reptilians and dinosaurs 
 Reptilians | Genetically manipulated dinosaurs
+Rigel |  had a hand in the control of humans along with Orion
 Sassani | Hybrid of humans and grays, from Orion
 Sirians | These are the good aquatic aliens and source of RH negative blood type and dolphins
 Tall Whites | Nordics
@@ -159,3 +161,10 @@ This led to the infusion of consciounsess on Earth causing the start of humans (
 Ra oversees the genetic programs
 
 Thoth oversees the education of the created humans
+
+
+
+### Environments
+
+Deserts attract Orion energy like magnets. Water attracts Sirius.
+
