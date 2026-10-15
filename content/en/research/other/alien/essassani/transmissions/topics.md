@@ -398,18 +398,18 @@ weight: 1
 | 09/01/1995 | [A Change: A Collegiate Course](/research/other/alien/essassani/transmissions/1995/1995-09-01/) | 648/649 |
 | 09/08/1995 | [Second Assignment](/research/other/alien/essassani/transmissions/1995/1995-09-08/) | 650/651 |
 | 09/12/1995 | [Without Expectations¶](/research/other/alien/essassani/transmissions/1995/1995-09-12/) | — |
-| 09/15/1995 | [Third Assignement & The Missing Mustache](/research/other/alien/essassani/transmissions/1995/1995-09-15/) | 652/653 |
-| 09/20/1995 | [Assignment IV - N. Hollywood Private](/research/other/alien/essassani/transmissions/1995/1995-09-20/) | 654/655 |
-| 09/22/1995 | [Assignments 1 thru 12](/research/other/alien/essassani/transmissions/1995/1995-09-22/) | 656/657 |
-| 09/29/1995 | ["96 - 97" Revelatory Info](/research/other/alien/essassani/transmissions/1995/1995-09-29/) | 658/659 |
-| 10/06/1995 | [Synchronistic Magnetism](/research/other/alien/essassani/transmissions/1995/1995-10-06/) | 660/661 |
-| 10/10/1995 | [Private Group N. Hollywood](/research/other/alien/essassani/transmissions/1995/1995-10-10/) | 662/663 |
-| 10/11/1995 | [Mystic Vision](/research/other/alien/essassani/transmissions/1995/1995-10-11/) | 664/665 |
-| 10/13/1995 | [O.J. / Thousand Oaks, Ca](/research/other/alien/essassani/transmissions/1995/1995-10-13/) | 666/667 |
-| 10/20/1995 | [Coordinated Acceleration¶](/research/other/alien/essassani/transmissions/1995/1995-10-20/) | 668/669 |
+| 09/15/1995 | [Third Assignement & The Missing Mustache](/research/other/alien/essassani/transmissions/1995/1995-09-15/) |  |
+| 09/20/1995 | [Assignment IV - N. Hollywood Private](/research/other/alien/essassani/transmissions/1995/1995-09-20/) | |
+| 09/22/1995 | [Assignments 1 thru 12](/research/other/alien/essassani/transmissions/1995/1995-09-22/) |  |
+| 09/29/1995 | ["96 - 97" Revelatory Info](/research/other/alien/essassani/transmissions/1995/1995-09-29/) | |
+| 10/06/1995 | [Synchronistic Magnetism](/research/other/alien/essassani/transmissions/1995/1995-10-06/) |  |
+| 10/10/1995 | [Private Group N. Hollywood](/research/other/alien/essassani/transmissions/1995/1995-10-10/) |  |
+| 10/11/1995 | [Mystic Vision](/research/other/alien/essassani/transmissions/1995/1995-10-11/) |  |
+| 10/13/1995 | [O.J. / Thousand Oaks, Ca](/research/other/alien/essassani/transmissions/1995/1995-10-13/) | |
+| 10/20/1995 | [Coordinated Acceleration¶](/research/other/alien/essassani/transmissions/1995/1995-10-20/) |  |
 | 10/21/1995 | [Telepathy](/research/other/alien/essassani/transmissions/1995/1995-10-21/) | — |
-| 10/25/1995 | [Tau Ceti Woodland Hills, Calif¶](/research/other/alien/essassani/transmissions/1995/1995-10-25/) | 672/673 |
-| 10/27/1995 | [The Unknown As A Friend](/research/other/alien/essassani/transmissions/1995/1995-10-27/) | 674/675 |
+| 10/25/1995 | [Tau Ceti Woodland Hills, Calif¶](/research/other/alien/essassani/transmissions/1995/1995-10-25/) |  |
+| 10/27/1995 | [The Unknown As A Friend](/research/other/alien/essassani/transmissions/1995/1995-10-27/) | The Unknown |
 | 10/28/1995 | [Nora's Private](/research/other/alien/essassani/transmissions/1995/1995-10-28/) | 676/677 |
 | 11/03/1995 | [VQ](/research/other/alien/essassani/transmissions/1995/1995-11-03/) | 678/679 |
 | 11/08/1995 | [Dusting Off Your Mirror](/research/other/alien/essassani/transmissions/1995/1995-11-08/) | 680/681 |
