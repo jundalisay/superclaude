@@ -179,7 +179,8 @@
                         </div>
                     </div>
                 </aside>
-            {{ else if and (eq .Params.toc true) (gt (len .TableOfContents) 100) }}
+            <!-- else if and (eq .Params.toc true) (gt (len .TableOfContents) 100) -->
+            {{ else if gt (len .TableOfContents) 100 }}
                 <aside class="hidden lg:block w-64 flex-shrink-0">
                     <div class="sticky top-24">
                         <h4 class="font-display font-bold text-xs uppercase tracking-widest text-sp-muted mb-4 px-2">{{ i18n "toc" }}</h4>

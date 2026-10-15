@@ -9,5 +9,6 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 # # date: 2020-10-31
 weight: 2
+draft: true
 ---
 
